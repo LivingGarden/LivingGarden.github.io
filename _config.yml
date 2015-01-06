@@ -4,7 +4,7 @@ title:
 description: 	For Disaster Resiliance 
 logo:			http://i.imgur.com/fIIA5jJ.png # 120x120 px default image used for Twitter summary card
 teaser: 		teaser.jpg # 400x250 px default teaser image used in image archive grid
-locale:
+locale: 
 url:
 
 # Jekyll configuration
