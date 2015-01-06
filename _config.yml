@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:			Crowdsourcing Volcanic Data Creation in Indonesia
+title:			
 description: 	For Disaster Resiliance 
 logo:			http://i.imgur.com/fIIA5jJ.png # 120x120 px default image used for Twitter summary card
 teaser: 		teaser.jpg # 400x250 px default teaser image used in image archive grid
@@ -30,6 +30,8 @@ owner:
   bio: 
   avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
+
+# Pages
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
