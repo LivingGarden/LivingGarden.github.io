@@ -1,6 +1,11 @@
 # Site navigation links
 
+- title: Intro
+  url: /
+  excerpt:
+  image:
+
 - title: Overview
-  url: /Overview/
+  url: /overview/
   excerpt:
   image:
