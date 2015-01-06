@@ -30,9 +30,9 @@ Open data initiatives and volunteer communities are helping to fix these informa
 
 The dark tan polygons displayed on the right of Fig. 2 are descriptions of Jakarta’s buildings which were added to OSM. This data is now available, not just in the picture or on OSM’s website, but to download by anybody for free for use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
 
------
+
 ##The Problem of Missing Data
-<ol></ol>
+
 ###Decision Making
 
 Many national governments, IGOs, and NGOs, including USAID/OFDA partners, use OpenStreetMap data for planning. This evacuation planning map and subsequent images highlight the scarcity of quality information about many at-risk areas.
@@ -133,7 +133,7 @@ The severe lack of available data around Volcanoes in Indonesia was highlighted 
 
 ![Volcanoes](images/OSM/ind.png)
 
------
+
 ##How to Fill the Gaps - Volunteer Data Creation
 
 To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian programs, and the broader humanitarian community's capacity to plan and respond to eruptions at the target volcanoes, a data creation event centered around the OpenStreetMap platform may be an optimal way to both create data and engage the local Indonesian community. This event would promote the creation of data on the location and distribution of buildings, roads and agricultural fields around a 50 km radius of their 10 volcanoes.
@@ -156,8 +156,6 @@ Previous mapping parties have looked very different depending on what is being m
 
 Beyond the collection of of useful data, volunteer mapping also serves as a productive outreach vehicle. These activities convene interest around the subject and give interested parties an avenue to participate in international humanitarianism productively.
 
------
-
 ##Potential Options
 
 An event aimed at promoting the creation of data on the location and distribution of buildings, roads and agricultural fields around a 50 km radius of their 10 volcanoes. The event would take place March/April 2015 and could be handled in two ways. If encouraging Indonesian participation is not identified as an explicit goal than we could continue on with this activity focused around a domestic event at no cost to OFDA save for some staff time. If we aim to encourage Indonesian volunteerism than some funding would be necessary to secure an international partner who can host a linked event in Indonesia and assist in coordination and outreach.
@@ -177,8 +175,8 @@ The following efforts will help to elicit participation in this activity:
 <li>VDAP is specifically interested in ways to get Indonesians to participate in mapping infrastructure around Volcanoes since local knowledge is always helpful in providing better accuracy and depth to the data. If we aim to encourage the participation of Indonesian volunteers, some funding would be necessary to secure an international partner who can host a linked event in Indonesia and assist with coordination and outreach. Training documentation would need to be translated to Indonesian to ensure training materials are available to assist less experienced participants. An Indonesian partner (yet to be identified) could promote the activity to local universities, identify a location for the mapping event and host it.</li>
 </div>
 
------
-##<strong>Potential Partners</strong>
+
+##Potential Partners
 
 It is expected that in March 2015, volcanoes in Indonesia will not be receiving the consistent media coverage that has focused the public’s attention and increased volunteers. Because of this, special outreach measures would be necessary to garner support for this effort. The most effective way to perform this outreach is through partnership and by leveraging the resources of the intra-agency. Below is a selection of institutions and potential collaborators with assets useful to volunteer mapping in Indonesia.
 
