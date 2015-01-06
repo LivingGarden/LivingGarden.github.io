@@ -8,7 +8,7 @@ permalink: /overview/
 
 #Better Understanding What's At Risk Around Volcanoes
 
-<div class="toc"></div>
+<nav class="toc"></nav>
 
 ![Flee](images/indonesia/vrun.jpg)
 
