@@ -1,11 +1,15 @@
 ---
-layout: page
+layout: default
 title:  OpenStreetMap Tracing Guide
 image:  <img src="http://i.imgur.com/fs6AlD4.png">
 permalink: /guide/
+toc: true
 
 ---
+
 ####<a href="www.usaid.gov">**Download PDF Version of this Guide**</a>
+
+<nav class='toc'></nav>
 
 ![OSM](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/OSM2.png)
 
