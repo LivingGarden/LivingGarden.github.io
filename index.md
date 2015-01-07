@@ -4,7 +4,7 @@ permalink: /
 title:   
 
 ---
-<div class="page-image">![alt text](images/indonesia/main_dark.jpeg)</div>
+![alt text](images/indonesia/main_dark.jpeg)
 
 <!-- /.tile -->
 
