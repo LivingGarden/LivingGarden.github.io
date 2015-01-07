@@ -6,18 +6,11 @@ permalink: /overview/
 toc: true
 ---
 
-
 #Better Understanding What's At Risk Around Volcanoes
 
 <nav class="toc"></nav>
 
-![Flee](images/indonesia/vrun.jpg)
-
-
-
 Many active volcanoes lack open data about the buildings and infrastructure surrounding them, making it difficult to ascertain the risk posed by volcanic hazards. This problem is especially evident in Indonesia; Figure 1 below demonstrates the extent of this problem. Kediri, a town 19 miles to the West of Mount Kelud in East Java, was evacuated earlier this year when threatened by Kelud’s February eruption. Despite this, virtually no effort has been made to map the homes and infrastructure of this or any other surrounding town. Determining the extent and distribution of risk to local infrastructure posed by Kelud is just as difficult today as it was before its most recent eruption.
-
-
 
 ![Volcano1](images/indonesia/osm2ge.png)
 
@@ -165,7 +158,7 @@ It is expected that in March 2015, volcanoes in Indonesia will not be receiving 
 
 The following efforts will help to elicit participation in this activity:
 
-<div class="message">
+<p class="notice-inverse">
 <strong>DC Mapping Event</strong>
 <ol></ol>
 <li>This activity could be focused around a domestic event at no cost to OFDA save for some staff time. Hosting the activity under the umbrella of USAID/Geocenter’s “Mapping for Resilience” program would ensure that the mapping event is incorporated into a GIS class at a local university (George Washington University), guaranteeing a base level of participation.</li>
@@ -174,38 +167,4 @@ The following efforts will help to elicit participation in this activity:
 <strong>Indonesia Mapping Event</strong>
 <ol></ol>
 <li>VDAP is specifically interested in ways to get Indonesians to participate in mapping infrastructure around Volcanoes since local knowledge is always helpful in providing better accuracy and depth to the data. If we aim to encourage the participation of Indonesian volunteers, some funding would be necessary to secure an international partner who can host a linked event in Indonesia and assist with coordination and outreach. Training documentation would need to be translated to Indonesian to ensure training materials are available to assist less experienced participants. An Indonesian partner (yet to be identified) could promote the activity to local universities, identify a location for the mapping event and host it.</li>
-</div>
-
-
-##Potential Partners
-
-It is expected that in March 2015, volcanoes in Indonesia will not be receiving the consistent media coverage that has focused the public’s attention and increased volunteers. Because of this, special outreach measures would be necessary to garner support for this effort. The most effective way to perform this outreach is through partnership and by leveraging the resources of the intra-agency. Below is a selection of institutions and potential collaborators with assets useful to volunteer mapping in Indonesia.
-
-<ol></ol>
-
-<table>
-  <thead>
-    <tr>
-      <th>ORGANIZATION</th>
-      <th>DETAILS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><center>USAID/Geocenter</center></td>
-      <td><strong>Coordination/Implementation</strong> - Has a vehicle for promoting and hosting volunteer mapping events under their “Mapping for Resilience” (MFR). A number of mapping events have already been held under MFR. MFR would provide ties to domestic universities, a central location to host the event and a guaranteed base of participants if we leveraged their resources.</td>
-    </tr>
-    <tr>
-      <td><center>DoS/HIU</center></td>
-      <td><strong>Training/Imagery/Outreach</strong> - Has created a platform to train new users on how to add data to OpenStreetMap called <a href="http://mapgive.state.gov/">MapGive</a>. HIU also has an established mechanism for supplying imagery if the quality of publicly available imagery is not good enough for volunteer mapping, it is called Imagery to the Crowd. HIU has also recently brought on a Presidential Innovation Fellow who has experience in doing outreach and hosting international volunteer mapping events.</td>
-    </tr>
-    <tr>
-      <td><center>World Bank/GFDRR</center></td>
-      <td><strong>Outreach</strong> - The world bank has done a lot of work and put a lot of thought behind how to use OSM for resilience, they recently wrote a field guide for interacting with open data for humanitarian managers called <a href="https://www.gfdrr.org/ODRIFG">Open Data for Resilience Field Guide</a>. GFDRR has developed ties to many of the key actors around OSM in the field.</td>
-    </tr>
-    <tr>
-      <td><center>Humanitarian OpenStreetMap Team (HOT)</center></td>
-      <td><strong>Tools/Outreach</strong> - Manages and builds tools used for managing and coordinating mapping activities and has experience providing training and supporting mapping events.</td>
-    </tr>
-  </tbody>
-</table>
+</p>

@@ -1,20 +1,25 @@
 ---
 layout: default
 title:  OpenStreetMap Tracing Guide
-image:  <img src="http://i.imgur.com/fs6AlD4.png">
 permalink: /guide/
+<<<<<<< HEAD
 toc: true
 
 ---
 
-####<a href="www.usaid.gov">**Download PDF Version of this Guide**</a>
+=======
+---
+
+#OpenStreetMap Tracing Guide
+
 
 <nav class='toc'></nav>
 
 ![OSM](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/OSM2.png)
 
-The purpose of this guide is to assist remote mappers in indentifying geographic features unique to volcanic areas of Indonesia. Listed in this guide are the most common features you can identify using high resolution satellite imagery. For reference on the basics of how to use OpenStreetMap, see the State Department's [MapGive](http://mapgive.state.gov/learn-to-map/) website.
+TO EXPAND: The purpose of this guide is to assist remote mappers in indentifying geographic features unique to volcanic areas of Indonesia. Listed in this guide are the most common features you can identify using high resolution satellite imagery. For reference on the basics of how to use OpenStreetMap, see the State Department's [MapGive](http://mapgive.state.gov/learn-to-map/) website.
 
+----
 
 ##TAGGING FEATURES AND ATTRIBUTION
 
@@ -62,8 +67,6 @@ OpenStreetMap is a collaborative platform. If you see traced features that look 
 
 ###Saving Edits
 Save your edits often, as a browser crash will delete all unsaved tracing.
-
-<ol></ol>
 
 ##TRACING FEATURES
 
