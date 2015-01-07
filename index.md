@@ -1,36 +1,18 @@
+---
+layout: media 
+permalink: /
+title:   
 
 ---
-layout: default
----
+<div class="page-image">![alt text](images/indonesia/main_dark.jpeg)</div>
 
-<div id="main" role="main">	
-	<article class="wrap" itemscope itemtype="http://schema.org/Article">
-		{% if page.image.feature %}
-		<div class="page-feature">
-			<div class="page-image">
-				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
-				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
-			</div><!-- /.page-image -->
-		</div><!-- /.page-feature -->
-		{% endif %}
-		{% include breadcrumbs.html %}
-		<div class="page-title">
-			<h1>{{ page.title }}</h1>
-		</div>
-		<div class="inner-wrap">
-			<nav class="toc"></nav><!-- /.toc -->
-			<div id="content" class="page-content" itemprop="articleBody">
-				{{ content }}
-				<hr />
-				<footer class="page-footer">
-					{% if page.share != false %}{% include share-this.html %}{% endif %}
-					{% include page-meta.html %}
-				</footer><!-- /.footer -->
-				<aside>
-					{% if page.comments == true %}{% include comments.html %}{% endif %}
-				</aside>
-			</div><!-- /.content -->
-		</div><!-- /.inner-wrap -->
-		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
-	</article><!-- /.wrap -->
-</div><!-- /#main -->
+<!-- /.tile -->
+
+<!--
+<div class="tiles">
+{% for post in site.posts %}
+	{% include post-grid.html %}
+{% endfor %}
+</div>
+-->
+ <!-- /.tiles -->
