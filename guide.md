@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title:  OpenStreetMap Tracing Guide
 image:  <img src="http://i.imgur.com/fs6AlD4.png">
 permalink: /guide/
