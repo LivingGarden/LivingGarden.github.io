@@ -18,7 +18,7 @@
 	@include notice($primary-color);
 }
 .notice-inverse {
-	@include notice($gray);
+	@include notice($white);
 	color: $text-color;
 	a {
 		color: $text-color;
