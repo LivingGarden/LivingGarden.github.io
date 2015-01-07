@@ -12,7 +12,7 @@ permalink: /guide/
 
 TO EXPAND: The purpose of this guide is to assist remote mappers in indentifying geographic features unique to volcanic areas of Indonesia. Listed in this guide are the most common features you can identify using high resolution satellite imagery. For reference on the basics of how to use OpenStreetMap, see the State Department's [MapGive](http://mapgive.state.gov/learn-to-map/) website.
 
-----
+-----
 
 ##TAGGING FEATURES AND ATTRIBUTION
 
@@ -82,7 +82,7 @@ To trace buildings, place a node around every corner. Some buildings will be har
 ![OSMBuildingGIF](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/buildingGIF.gif)
 <sup><i>An animation of the process.</i></sup>
 
-----
+-----
 
 ###Rivers/Lakes
 
@@ -111,7 +111,7 @@ How to Trace Rivers
 ![OSMWaterGIF](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/river2GIF.gif)
 <sup><i>Short animation of river tracing.</i></sup>
 
-----
+-----
 
 ###Roads
 
