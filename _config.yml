@@ -1,8 +1,7 @@
 # Site wide configuration
 
 title:			
-image: 	        http://www.usaid.gov/sites/all/themes/usaid/logo.png
-logo:			http://i.imgur.com/fIIA5jJ.png # 120x120 px default image used for Twitter summary card
+logo:			http://www.usaid.gov/sites/all/themes/usaid/logo.png # 120x120 px default image used for Twitter summary card
 teaser: 		teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale: 
 url:
