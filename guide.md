@@ -11,6 +11,7 @@ permalink: /guide/
 ![OSM](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/OSM2.png)
 
 The purpose of this guide is to assist remote mappers in indentifying geographic features unique to volcanic areas of Indonesia. Listed in this guide are the most common features you can identify using high resolution satellite imagery. For reference on the basics of how to use OpenStreetMap, see the State Department's [MapGive](http://mapgive.state.gov/learn-to-map/) website.
+
 ----
 
 ##TAGGING FEATURES AND ATTRIBUTION
