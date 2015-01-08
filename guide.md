@@ -2,13 +2,10 @@
 layout: default
 title:  OpenStreetMap Tracing Guide
 permalink: /guide/
-<<<<<<< HEAD
 toc: true
 
 ---
 
-=======
----
 
 #OpenStreetMap Tracing Guide
 
