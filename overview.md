@@ -130,9 +130,6 @@ Other recent examples include:
 * HIU and IFRC also collaborated to map communities in west africa affected by the [Ebola outbreak](http://bit.ly/ZeRWj2). 
 Previous mapping parties have looked very different depending on what is being mapped and the level of local knowledge needed. Sometimes they require extensive training support or some level of local knowledge while sometimes basic knowledge about how to navigate a web browser is sufficient for participants to contribute to the map. In this case, infrastructure around volcanoes is generally easy enough to trace from satellite imagery that there is little technical skill needed for interested volunteers to participate.
 
-
-###What is Volunteer Data Creation?
-
 Beyond the collection of of useful data, volunteer mapping also serves as a productive outreach vehicle. These activities convene interest around the subject and give interested parties an avenue to participate in international humanitarianism productively.
 
 ##Potential Options
@@ -145,10 +142,10 @@ The following efforts will help to elicit participation in this activity:
 
 <strong>DC Mapping Event</strong>
 <ol></ol>
-<li>This activity could be focused around a domestic event at no cost to OFDA save for some staff time. Hosting the activity under the umbrella of USAID/Geocenter’s “Mapping for Resilience” program would ensure that the mapping event is incorporated into a GIS class at a local university (George Washington University), guaranteeing a base level of participation.</li>
+* This activity could be focused around a domestic event at no cost to OFDA save for some staff time. Hosting the activity under the umbrella of USAID/Geocenter’s “Mapping for Resilience” program would ensure that the mapping event is incorporated into a GIS class at a local university (George Washington University), guaranteeing a base level of participation.
 <ol></ol>
 
 <strong>Indonesia Mapping Event</strong>
 <ol></ol>
-<li>VDAP is specifically interested in ways to get Indonesians to participate in mapping infrastructure around Volcanoes since local knowledge is always helpful in providing better accuracy and depth to the data. If we aim to encourage the participation of Indonesian volunteers, some funding would be necessary to secure an international partner who can host a linked event in Indonesia and assist with coordination and outreach. Training documentation would need to be translated to Indonesian to ensure training materials are available to assist less experienced participants. An Indonesian partner (yet to be identified) could promote the activity to local universities, identify a location for the mapping event and host it.</li>
+* VDAP is specifically interested in ways to get Indonesians to participate in mapping infrastructure around Volcanoes since local knowledge is always helpful in providing better accuracy and depth to the data. If we aim to encourage the participation of Indonesian volunteers, some funding would be necessary to secure an international partner who can host a linked event in Indonesia and assist with coordination and outreach. Training documentation would need to be translated to Indonesian to ensure training materials are available to assist less experienced participants. An Indonesian partner (yet to be identified) could promote the activity to local universities, identify a location for the mapping event and host it.
 
