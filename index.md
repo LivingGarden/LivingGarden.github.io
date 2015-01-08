@@ -4,9 +4,9 @@ permalink: /
 title:   
 
 ---
-![alt text]({{site.url}}images/index/main_dark.jpeg)
+<div class="page-lead" style="background-image:url({{site.url}}images/index/main_dark.jpeg)">
 
-<div class="page-feature" style="background-image:url(//mmistakes.github.io/skinny-bones-jekyll/images/wood-texture-1600x800.jpg)">
+<div class="page-lead" style="background-image:url(//mmistakes.github.io/skinny-bones-jekyll/images/wood-texture-1600x800.jpg)">
       <div class="wrap page-lead-content">
         <h1>Skinny Bones</h1>
         <h2>Jump start your Jekyll site with something thin and light.</h2>
