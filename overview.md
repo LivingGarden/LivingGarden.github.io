@@ -12,13 +12,13 @@ toc: true
 
 Many active volcanoes lack open data about the buildings and infrastructure surrounding them, making it difficult to ascertain the risk posed by volcanic hazards. This problem is especially evident in Indonesia; Figure 1 below demonstrates the extent of this problem. Kediri, a town 19 miles to the West of Mount Kelud in East Java, was evacuated earlier this year when threatened by Kelud’s February eruption. Despite this, virtually no effort has been made to map the homes and infrastructure of this or any other surrounding town. Determining the extent and distribution of risk to local infrastructure posed by Kelud is just as difficult today as it was before its most recent eruption.
 
-![Volcano1](images/indonesia/osm2ge.png)
+![Volcano1]({{site.url}}../images/overview/osm2ge.png)
 
 <center><sup><i>Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia</i></sup></center>
 
 Open data initiatives and volunteer communities are helping to fix these information gaps around the world. OpenStreetMap, often referred to as the Wikipedia of maps, is a collaborative project to create a free editable map of the world. Figure 2 highlights the infrastructure added to OpenStreetMap (OSM) for a different areas in Indonesia, in this case central Jakarta. Jakarta has received significant attention and effort from OSM volunteer mappers.
 
-![Volcano2](images/indonesia/osm2ge2.png)
+![Volcano2]({{site.url}}../images/overview/osm2ge2.png)
 
 <center><sup><i>Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia</i></sup></center>
 
@@ -29,27 +29,12 @@ The dark tan polygons displayed on the right of Fig. 2 are descriptions of Jakar
 
 ###Decision Making
 
-Many national governments, IGOs, and NGOs, including USAID/OFDA partners, use OpenStreetMap data for planning. This evacuation planning map and subsequent images highlight the scarcity of quality information about many at-risk areas.
+Many national governments, IGOs, and NGOs, including USAID/OFDA partners, use OpenStreetMap data for planning. This evacuation planning map and subsequent {{site.url}}../images/overview highlight the scarcity of quality information about many at-risk areas.
 
-![FactSheet](images/indonesia/ind_fs.jpg)
+![FactSheet]({{site.url}}../images/overview/harlan.png)
 
 <center><sup><i>Image of a map, taken from the latest USAID/OFDA Indonesian Fact Sheet.</i></sup></center>
 
-![FactSheet2](images/indonesia/ind_fs_zoom.jpg)
-
-<center><sup><i>Close up of the inset map.</i></sup></center>
-
-![FactSheet3](images/indonesia/ind_fs_osm.png)
-
-<center><sup><i>The inset map as it's seen in OpenStreetMap</i></sup></center>
-
-![FactSheet4](images/indonesia/ind_fs_ge.png)
-
-<center><sup><i>What the location actually looks via satellite (Google Earth).</i></sup></center>
-
-![FactSheet5](images/indonesia/ind_fs_osmge.png)
-
-<center><sup><i>Note the amount of missing data when comparing OpenStreetMap data with satellite imagery.</i></sup></center>
 
 ###Hazard/Risk Modelling
 
@@ -125,7 +110,7 @@ The severe lack of available data around Volcanoes in Indonesia was highlighted 
   </tbody>
 </table>
 
-![Volcanoes](images/OSM/ind.png)
+![Volcanoes]({{site.url}}../images/overview/ind.png)
 
 
 ##How to Fill the Gaps - Volunteer Data Creation

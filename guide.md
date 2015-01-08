@@ -12,7 +12,7 @@ toc: true
 
 <nav class='toc'></nav>
 
-![OSM](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/OSM2.png)
+![OSM]({{site.url}}.../images/guide/OSM2.png)
 
 TO EXPAND: The purpose of this guide is to assist remote mappers in indentifying geographic features unique to volcanic areas of Indonesia. Listed in this guide are the most common features you can identify using high resolution satellite imagery. For reference on the basics of how to use OpenStreetMap, see the State Department's [MapGive](http://mapgive.state.gov/learn-to-map/) website.
 
@@ -74,16 +74,16 @@ Common building types in this region include, but are not limited to: homes, hea
 How to Trace Buildings
 To trace buildings, place a node around every corner. Some buildings will be harder to discern than others--in these cases, trace the buildings as best as possible. When tracing is complete, remember to tag the newly added feature. See the images below for a step-by-step explaination on how to trace a building.
 
-![OSMBuilding](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/building.png)
+![OSMBuilding]({{site.url}}../images/guide/building.png)
 <sup><i>Find a building that has not been mapped yet.</i></sup>
 
-![OSMBuilding2](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/building2.png)
+![OSMBuilding2]({{site.url}}../images/guide/building2.png)
 <sup><i>Click on "Area" and begin tracing. Place a node at each corner of the building. A node is placed every time a user clicks on the mouse.</i></sup>
 
-![OSMBuilding3](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/building3.png)
+![OSMBuilding3]({{site.url}}../images/guide/building3.png)
 <sup><i>After tracing is complete, double click to complete the polygon. Look at the tag list and click on "building".</i></sup>
 
-![OSMBuildingGIF](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/buildingGIF.gif)
+![OSMBuildingGIF]({{site.url}}../images/guide/buildingGIF.gif)
 <sup><i>An animation of the process.</i></sup>
 
 -----
@@ -95,10 +95,10 @@ Many of the water features users encounter in Indonesia have already been added.
 Editing Water Features:
 While many water features are already in OSM, not all are traced correctly. Some were added via bulk upload using global datasets and as such, do not have good granularity.
 
-![OSMWater3](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/river4.png)
+![OSMWater3]({{site.url}}../images/guide/river4.png)
 <sup><i>Editing a line feature.</i></sup>
 
-![OSMWaterGIF2](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/riverGIF.gif)
+![OSMWaterGIF2]({{site.url}}../images/guide/riverGIF.gif)
 <sup><i>Animation of editing a line feature.</i></sup>
 
 Creating Water Features:
@@ -106,13 +106,13 @@ When creating new water features in OSM, you first need to determine if a area o
 
 How to Trace Rivers
 
-![OSMWater](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/river5.png)
+![OSMWater]({{site.url}}../images/guide/river5.png)
 <sup><i>Find a river that isn't in OSM and click on "Line".</i></sup>
 
-![OSMWater2](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/river6.png)
+![OSMWater2]({{site.url}}../images/guide/river6.png)
 <sup><i>When done tracing, double click and tag appropriately.</i></sup>
 
-![OSMWaterGIF](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/river2GIF.gif)
+![OSMWaterGIF]({{site.url}}../images/guide/river2GIF.gif)
 <sup><i>Short animation of river tracing.</i></sup>
 
 -----
@@ -122,10 +122,10 @@ How to Trace Rivers
 Editing Road Features:
 Similar to the river features, not all road data is properly traced in OSM and can be edited. Roads may also not be completely, in which case a user can finish tracing the length of the road. 
 
-![OSMRoads3](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/road.png)
+![OSMRoads3]({{site.url}}../images/guide/road.png)
 <sup><i>Click on the last node of a line and select "Continue this line".</i></sup>
 
-![OSMRoadsGIF2](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/roadGIF.gif)
+![OSMRoadsGIF2]({{site.url}}../images/guide/roadGIF.gif)
 <sup><i>Short animation on road editing.</i></sup>
 
 Creating Road Features:
@@ -133,11 +133,11 @@ There are plenty of roads that have not been traced into OpenStreetMap yet. If i
 
 How to Trace Roads
 
-![OSMRoads](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/road2.png)
+![OSMRoads]({{site.url}}../images/guide/road2.png)
 <sup><i>Find a road that hasn't been traced in OSM. Click "Line" and begin tracing.</i></sup>
 
-![OSMRoads2](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/road3.png)
+![OSMRoads2]({{site.url}}../images/guide/road3.png)
 <sup><i>Double-click when done and tag the new feature appropriately.</i></sup>
 
-![OSMRoadsGIF](https://raw.githubusercontent.com/CmdrKerfy/CmdrKerfy.github.io/master/_images/OSM/road2GIF.gif)
+![OSMRoadsGIF]({{site.url}}../images/guide/road2GIF.gif)
 <sup><i>Short animation on road creation.</i></sup>
