@@ -4,7 +4,7 @@ permalink: /
 title:   
 
 ---
-![alt text](images/indonesia/main_dark.jpeg)
+![alt text]({{site.url}}images/index/main_dark.jpeg)
 
 <!-- /.tile -->
 
