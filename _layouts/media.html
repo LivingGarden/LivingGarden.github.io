@@ -2,6 +2,7 @@
 layout: media
 ---
 
+<div id="main" role="main">
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
 		{% if page.image.feature %}
 		<div class="page-feature">
@@ -15,7 +16,7 @@ layout: media
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>
 		</div>
-		<div class="inner-wrap">
+		<div class="page-lead">
 			<nav class="toc"></nav><!-- /.toc -->
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
@@ -31,4 +32,4 @@ layout: media
 		</div><!-- /.inner-wrap -->
 		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
 	</article><!-- /.wrap -->
-
+</div><!-- /#main -->
