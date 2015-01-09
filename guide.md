@@ -79,12 +79,15 @@ To trace buildings, place a node around every corner. Some buildings will be har
 <sup><i>Find a building that has not been mapped yet.</i></sup>
 
 ![OSMBuilding2]({{site.url}}../images/guide/building2.png)
+<br />
 <sup><i>Click on "Area" and begin tracing. Place a node at each corner of the building. A node is placed every time a user clicks on the mouse.</i></sup>
 
 ![OSMBuilding3]({{site.url}}../images/guide/building3.png)
+<br />
 <sup><i>After tracing is complete, double click to complete the polygon. Look at the tag list and click on "building".</i></sup>
 
 ![OSMBuildingGIF]({{site.url}}../images/guide/buildingGIF.gif)
+<br />
 <sup><i>An animation of the process.</i></sup>
 
 -----
@@ -97,9 +100,11 @@ Editing Water Features:
 While many water features are already in OSM, not all are traced correctly. Some were added via bulk upload using global datasets and as such, do not have good granularity.
 
 ![OSMWater3]({{site.url}}../images/guide/river4.png)
+<br />
 <sup><i>Editing a line feature.</i></sup>
 
 ![OSMWaterGIF2]({{site.url}}../images/guide/riverGIF.gif)
+<br />
 <sup><i>Animation of editing a line feature.</i></sup>
 
 Creating Water Features:
@@ -108,12 +113,15 @@ When creating new water features in OSM, you first need to determine if a area o
 How to Trace Rivers
 
 ![OSMWater]({{site.url}}../images/guide/river5.png)
+<br />
 <sup><i>Find a river that isn't in OSM and click on "Line".</i></sup>
 
 ![OSMWater2]({{site.url}}../images/guide/river6.png)
+<br />
 <sup><i>When done tracing, double click and tag appropriately.</i></sup>
 
 ![OSMWaterGIF]({{site.url}}../images/guide/river2GIF.gif)
+<br />
 <sup><i>Short animation of river tracing.</i></sup>
 
 -----
@@ -124,9 +132,11 @@ Editing Road Features:
 Similar to the river features, not all road data is properly traced in OSM and can be edited. Roads may also not be completely, in which case a user can finish tracing the length of the road. 
 
 ![OSMRoads3]({{site.url}}../images/guide/road.png)
+<br />
 <sup><i>Click on the last node of a line and select "Continue this line".</i></sup>
 
 ![OSMRoadsGIF2]({{site.url}}../images/guide/roadGIF.gif)
+<br />
 <sup><i>Short animation on road editing.</i></sup>
 
 Creating Road Features:
@@ -135,10 +145,13 @@ There are plenty of roads that have not been traced into OpenStreetMap yet. If i
 How to Trace Roads
 
 ![OSMRoads]({{site.url}}../images/guide/road2.png)
+<br />
 <sup><i>Find a road that hasn't been traced in OSM. Click "Line" and begin tracing.</i></sup>
 
 ![OSMRoads2]({{site.url}}../images/guide/road3.png)
+<br />
 <sup><i>Double-click when done and tag the new feature appropriately.</i></sup>
 
 ![OSMRoadsGIF]({{site.url}}../images/guide/road2GIF.gif)
+<br />
 <sup><i>Short animation on road creation.</i></sup>
