@@ -75,6 +75,7 @@ How to Trace Buildings
 To trace buildings, place a node around every corner. Some buildings will be harder to discern than others--in these cases, trace the buildings as best as possible. When tracing is complete, remember to tag the newly added feature. See the images below for a step-by-step explaination on how to trace a building.
 
 ![OSMBuilding]({{site.url}}../images/guide/building.png)
+<br />
 <sup><i>Find a building that has not been mapped yet.</i></sup>
 
 ![OSMBuilding2]({{site.url}}../images/guide/building2.png)
