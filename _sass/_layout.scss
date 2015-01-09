@@ -116,6 +116,8 @@
 
 #page-wrapper {
 	padding: $gutter; // add white space for smaller screens
+	margin-right: $gutter;
+	margin-left: $gutter;
 	@include size(45rem 100%);
 	@include position (relative);
 	-webkit-overflow-scrolling: touch;
