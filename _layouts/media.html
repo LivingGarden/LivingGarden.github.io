@@ -2,8 +2,7 @@
 layout: default
 ---
 
-<div id="main" role="main">
-	<!--<article class="wrap" itemscope itemtype="http://schema.org/Article">-->
+<div id="main">
 		{% if page.image.feature %}
 		<div class="page-feature">
 			<div class="page-image">
@@ -16,19 +15,15 @@ layout: default
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>
 		</div>
-		<!-- <div class="inner-wrap">-->
-			<!-- <nav class="toc"></nav> --><!-- /.toc -->
-			<div id="content" class="page-lead" itemprop="articleBody">
+			<div id="content" class="page-lead">
 				{{ content }}
 				<hr />
 				<footer class="page-footer">
 					{% if page.share != false %}{% include share-this.html %}{% endif %}
 					{% include page-meta.html %}
 				</footer><!-- /.footer -->
-				<!--<aside>
+				<aside>
 					{% if page.comments == true %}{% include comments.html %}{% endif %}
-				</aside>-->
+				</aside>
 			</div><!-- /.content -->
-			<!--</div> /.inner-wrap -->
-	<!--</article> /.wrap -->
 </div><!-- /#main -->
