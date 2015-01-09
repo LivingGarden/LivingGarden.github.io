@@ -83,7 +83,7 @@ To trace buildings, place a node around every corner. Some buildings will be har
 ![OSMBuilding3]({{site.url}}../images/guide/building3.png)
 <sup><i>After tracing is complete, double click to complete the polygon. Look at the tag list and click on "building".</i></sup>
 
-![OSMBuildingGIF]({{site.url}}../images/guide/buildingGIF.gif =966x)
+![OSMBuildingGIF]({{site.url}}../images/guide/buildingGIF.gif)
 <sup><i>An animation of the process.</i></sup>
 
 -----
