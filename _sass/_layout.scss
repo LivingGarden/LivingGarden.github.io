@@ -127,13 +127,12 @@
 	&.slide {
 		@include transform(translate(-60rem,0));
 	}
-}
-
-@media screen and (max-width: 800px) {
-  #page-wrapper {
-    width: 90%;
-    min-width: 0;
-  }
+	@media screen and (max-width: 800px) {
+	 	#page-wrapper {
+	 	width: 90%;
+	 	min-width: 0;
+  		}
+	}
 }
 
 // BROWSER UPGRADE
