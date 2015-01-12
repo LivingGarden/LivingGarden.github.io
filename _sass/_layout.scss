@@ -349,8 +349,8 @@
 			background: lighten($border-color,5);
 		}
 	}
-    @media all and (max-width: 800px) {
-    .content .toc{display:none;}
+    @media screen and (max-width: 800px) {
+    .content .toc{display:none}
     }
 }
 // tiles
