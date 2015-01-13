@@ -349,11 +349,11 @@
 			background: lighten($border-color,5);
 		}
 	}
-    @mixin media-query($device) {
-    	@media screen and (max-width: $device) {
-        @content;
-    	}
-    }
+    //@mixin media-query($device) {
+    	//@media screen and (max-width: $device) {
+        //@content;
+    	//}
+    //}
 }
 // tiles
 .tile {
