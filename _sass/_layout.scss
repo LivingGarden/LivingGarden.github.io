@@ -349,8 +349,10 @@
 			background: lighten($border-color,5);
 		}
 	}
-    @include media {@include max-width: 800px} {
-    .toc{display:none}
+    @mixin media-query($device) {
+    	@media screen and (max-width: $device) {
+        @content;
+    	}
     }
 }
 // tiles
