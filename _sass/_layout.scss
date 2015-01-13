@@ -349,7 +349,7 @@
 			background: lighten($border-color,5);
 		}
 	}
-    @include media screen and (max-width: 800px) {
+    @include media {max-width: 800px} {
     .content .toc{display:none}
     }
 }
