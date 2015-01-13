@@ -6,7 +6,7 @@ permalink: /overview/
 toc: true
 ---
 
-#Better Understanding What's At Risk Around Volcanoes
+#Risk Around Volcanoes
 
 Many active volcanoes lack open data about the buildings and infrastructure surrounding them, making it difficult to ascertain the risk posed by volcanic hazards. This problem is especially evident in Indonesia; Figure 1 below demonstrates the extent of this problem. Kediri, a town 19 miles to the West of Mount Kelud in East Java, was evacuated earlier this year when threatened by Kelud’s February eruption. Despite this, virtually no effort has been made to map the homes and infrastructure of this or any other surrounding town. Determining the extent and distribution of risk to local infrastructure posed by Kelud is just as difficult today as it was before its most recent eruption.
 
@@ -24,7 +24,7 @@ Open data initiatives and volunteer communities are helping to fix these informa
 The dark tan polygons displayed on the right of Fig. 2 are descriptions of Jakarta’s buildings which were added to OSM. This data is now available, not just in the picture or on OSM’s website, but to download by anybody for free for use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
 
 
-##The Problem of Missing Data
+##Missing Data
 
 ###Decision Making
 
@@ -112,7 +112,7 @@ The severe lack of available data around Volcanoes in Indonesia was highlighted 
 ![Volcanoes]({{site.url}}../images/overview/ind.png)
 
 
-##How to Fill the Gaps - Volunteer Data Creation
+##Volunteer Data Creation
 
 To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian programs, and the broader humanitarian community's capacity to plan and respond to eruptions at the target volcanoes, a data creation event centered around the OpenStreetMap platform may be an optimal way to both create data and engage the local Indonesian community. This event would promote the creation of data on the location and distribution of buildings, roads and agricultural fields around a 50 km radius of their 10 volcanoes.
 
