@@ -9,11 +9,12 @@ toc: true
 
 #OpenStreetMap Tracing Guide
 
-<!--<nav class="toc"></nav>-->
+The purpose of this guide is to assist remote mappers in indentifying geographic features unique to volcanic areas of Indonesia. Listed in this guide are the most common features you can identify using high resolution satellite imagery. For reference on the basics of how to use OpenStreetMap, see the State Department's [MapGive](http://mapgive.state.gov/learn-to-map/) website.
 
-![OSM]({{site.url}}../images/guide/OSM2.png)
-
-TO EXPAND: The purpose of this guide is to assist remote mappers in indentifying geographic features unique to volcanic areas of Indonesia. Listed in this guide are the most common features you can identify using high resolution satellite imagery. For reference on the basics of how to use OpenStreetMap, see the State Department's [MapGive](http://mapgive.state.gov/learn-to-map/) website.
+<figure>
+	<img src="../images/guide/OSM2.png">
+	<figcaption>An example of the OpenStreetMap interface.</figcaption>
+</figure>
 
 -----
 
@@ -75,21 +76,25 @@ Common building types in this region include, but are not limited to: homes, hea
 How to Trace Buildings
 To trace buildings, place a node around every corner. Some buildings will be harder to discern than others--in these cases, trace the buildings as best as possible. When tracing is complete, remember to tag the newly added feature. See the images below for a step-by-step explaination on how to trace a building.
 
-![OSMBuilding]({{site.url}}../images/guide/building.png)
-<br />
-<sup><i>Find a building that has not been mapped yet.</i></sup>
+<figure>
+	<img src="../images/guide/building.png">
+	<figcaption>Find a building that has not been mapped yet.</figcaption>
+</figure>
 
-![OSMBuilding2]({{site.url}}../images/guide/building2.png)
-<br />
-<sup><i>Click on "Area" and begin tracing. Place a node at each corner of the building. A node is placed every time a user clicks on the mouse.</i></sup>
+<figure>
+	<img src="../images/guide/building2.png">
+	<figcaption>Click on "Area" and begin tracing. Place a node at each corner of the building. A node is placed every time a user clicks on the mouse.</figcaption>
+</figure>
 
-![OSMBuilding3]({{site.url}}../images/guide/building3.png)
-<br />
-<sup><i>After tracing is complete, double click to complete the polygon. Look at the tag list and click on "building".</i></sup>
+<figure>
+	<img src="../images/guide/building3.png">
+	<figcaption>After tracing is complete, double click to complete the polygon. Look at the tag list and click on "building".</figcaption>
+</figure>
 
-![OSMBuildingGIF]({{site.url}}../images/guide/buildingGIF.gif)
-<br />
-<sup><i>An animation of the process.</i></sup>
+<figure>
+	<img src="../images/guide/buildingGIF.gif">
+	<figcaption>An animation of the process.</figcaption>
+</figure>
 
 -----
 
