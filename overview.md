@@ -9,12 +9,6 @@ permalink: /overview/
 
 <!--<nav class="toc"></nav>-->
 
-<!--![Volcano1]({{site.url}}../images/overview/osm2ge.png)
-
-https://raw.githubusercontent.com/wuhland/wuhland.github.io/master/images/overview/osm2ge.png
-
-<center><sup><i>Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia</i></sup></center>-->
-
 Many active volcanoes lack open data about the buildings and infrastructure surrounding them, making it difficult to ascertain the risk posed by volcanic hazards. This problem is especially evident in Indonesia; Figure 1 below demonstrates the extent of this problem. Kediri, a town 19 miles to the West of Mount Kelud in East Java, was evacuated earlier this year when threatened by Kelud’s February eruption. Despite this, virtually no effort has been made to map the homes and infrastructure of this or any other surrounding town. Determining the extent and distribution of risk to local infrastructure posed by Kelud is just as difficult today as it was before its most recent eruption.
 
 <figure>
@@ -24,9 +18,10 @@ Many active volcanoes lack open data about the buildings and infrastructure surr
 
 Open data initiatives and volunteer communities are helping to fix these information gaps around the world. OpenStreetMap, often referred to as the Wikipedia of maps, is a collaborative project to create a free editable map of the world. Figure 2 highlights the infrastructure added to OpenStreetMap (OSM) for a different areas in Indonesia, in this case central Jakarta. Jakarta has received significant attention and effort from OSM volunteer mappers.
 
-![Volcano2]({{site.url}}../images/overview/osm2ge2.png)
-
-<center><sup><i>Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia</i></sup></center>
+<figure>
+	<img src="../images/overview/osm2ge2.png">
+	<figcaption>Fig.2 Bing Maps Imagery and OpenStreetMap Image of Jakarta, Indonesia</figcaption>
+</figure>
 
 The dark tan polygons displayed on the right of Fig. 2 are descriptions of Jakarta’s buildings which were added to OSM. This data is now available, not just in the picture or on OSM’s website, but to download by anybody for free for use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
 
