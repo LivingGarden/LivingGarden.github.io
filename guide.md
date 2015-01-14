@@ -17,7 +17,7 @@ TO EXPAND: The purpose of this guide is to assist remote mappers in indentifying
 
 -----
 
-##TAGGING FEATURES AND ATTRIBUTION
+##Tagging Features
 
 ###Tagging
 It is important that features are tagged appropriately and consistently. 
@@ -64,7 +64,7 @@ OpenStreetMap is a collaborative platform. If you see traced features that look 
 ###Saving Edits
 Save your edits often, as a browser crash will delete all unsaved tracing.
 
-##TRACING FEATURES
+##Tracing Features
 
 ###Buildings
 
