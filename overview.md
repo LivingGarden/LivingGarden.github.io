@@ -28,6 +28,7 @@ Open data initiatives and volunteer communities are helping to fix these informa
 
 The dark tan polygons displayed on the right of Fig. 2 are descriptions of Jakarta’s buildings which were added to OSM. This data is now available, not just in the picture or on OSM’s website, but to download by anybody for free for use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
 
+-----
 
 ##Missing Data
 
