@@ -325,6 +325,7 @@
 .toc {
 	min-height: 1px;
 	display: block;
+	position: fixed;
 	right: $gutter;
 	margin-left: auto;
 	margin-right: auto;
