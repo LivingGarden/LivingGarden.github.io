@@ -109,7 +109,10 @@ The severe lack of available data around Volcanoes in Indonesia was highlighted 
   </tbody>
 </table>
 
-![Volcanoes]({{site.url}}../images/overview/ind.png)
+<figure>
+	<img src="../images/overview/ind.png">
+	<figcaption>Location of all volcanoes listed in the table above.</figcaption>
+</figure>
 
 ----
 
