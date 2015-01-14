@@ -6,7 +6,6 @@ permalink: /overview/
 ---
 
 #Risk Around Volcanoes
-<br />
 
 <nav class="toc"></nav>
 
