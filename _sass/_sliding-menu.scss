@@ -35,19 +35,18 @@
 	top: 0;
 	right: 0;
 	padding: em(22) 0;
-	background: #336799;
 	text-align: center;
 	visibility: hidden;
 	@include media($medium) {
 		text-align: left;
 	}
-	@include size(50% 100%);
+	@include size(100% 100%);
 	@include media($medium) {
-		@include size(87% 100%);
+		@include size(50% 100%);
 	}
 	@include transform(translateX(100%));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
-	background: $sliding-menu-background;
+	background: #336799;
 	z-index: 5;
 	overflow-y: auto;
 	overflow-x: hidden;
