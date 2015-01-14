@@ -10,7 +10,7 @@ permalink: /overview/
 <!--<nav class="toc"></nav>-->
 
 <figure>
-	<img src="{site.url}}../images/overview/osm2ge.png">
+	<img src="../images/overview/osm2ge.png">
 	<figcaption>Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia</figcaption>
 </figure>
 
