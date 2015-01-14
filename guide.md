@@ -9,7 +9,7 @@ toc: true
 
 #OpenStreetMap Tracing Guide
 
-<nav class="toc"></nav>
+<!--<nav class="toc"></nav>-->
 
 ![OSM]({{site.url}}../images/guide/OSM2.png)
 
