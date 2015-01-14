@@ -64,6 +64,8 @@ OpenStreetMap is a collaborative platform. If you see traced features that look 
 ###Saving Edits
 Save your edits often, as a browser crash will delete all unsaved tracing.
 
+----
+
 ##Tracing Features
 
 ###Buildings
