@@ -5,7 +5,7 @@ toc: true
 permalink: /overview/
 ---
 
-#Risk Around Volcanoes
+#VOLCANIC DISASTERS
 
 <!--<nav class="toc"></nav>-->
 
