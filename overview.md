@@ -9,7 +9,12 @@ permalink: /overview/
 
 <!--<nav class="toc"></nav>-->
 
-![Volcano1]({{site.url}}../images/overview/osm2ge.png)
+<figure>
+	<img src="{site.url}}../images/overview/osm2ge.png">
+	<figcaption>Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia</figcaption>
+</figure>
+
+<!--![Volcano1]({{site.url}}../images/overview/osm2ge.png)-->
 
 <center><sup><i>Fig.1 Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia</i></sup></center>
 
