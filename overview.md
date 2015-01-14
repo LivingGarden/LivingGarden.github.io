@@ -7,7 +7,7 @@ permalink: /overview/
 
 #Risk Around Volcanoes
 
-<nav class="toc"></nav>
+<!--<nav class="toc"></nav>-->
 
 ![Volcano1]({{site.url}}../images/overview/osm2ge.png)
 
