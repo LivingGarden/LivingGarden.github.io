@@ -26,4 +26,4 @@ Previous mapping parties have looked very different depending on what is being m
 
 Beyond the collection of of useful data, volunteer mapping also serves as a productive outreach vehicle. These activities convene interest around the subject and give interested parties an avenue to participate in international humanitarianism productively.
 
-< iframe title="YouTube video player" width="480" height="390" src="http://vimeo.com/9182869" frameborder="0" allowfullscreen>< /iframe>
+<iframe src="//player.vimeo.com/video/9182869" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/9182869">OpenStreetMap - Project Haiti</a> from <a href="http://vimeo.com/itoworld">ItoWorld</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
