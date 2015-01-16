@@ -149,5 +149,4 @@ ADD TO OPEN DATA PAGE
 
 ##Data Benefits
 
-Blaaaaaaaaaaaaaaaaah
-
+The data produced from this mapping party will be used in several ways.
