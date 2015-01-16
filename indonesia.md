@@ -5,7 +5,7 @@ toc: true
 permalink: /indonesia/
 ---
 
-#VOLCANIC DISASTERS
+#INDONESIA VOLCANOES
 
 <!--
 ADD TO HOMEPAGE
