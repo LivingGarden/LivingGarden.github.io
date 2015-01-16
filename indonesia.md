@@ -15,15 +15,15 @@ Many active volcanoes lack open data about the infrastructure surrounding them, 
 ADD TO HOMEPAGE
 -->
 
-Open data initiatives and volunteer communities are helping to fix these information gaps around the world. OpenStreetMap, often referred to as the Wikipedia of maps, is a collaborative project to create a free editable map of the world. Figure 2 highlights the infrastructure added to OpenStreetMap (OSM) for a different areas in Indonesia, in this case central Jakarta. Jakarta has received significant attention and effort from OSM volunteer mappers.
+Open data initiatives and volunteer communities are helping to fix these information gaps around the world. OpenStreetMap, often referred to as the Wikipedia of maps, is a collaborative project to create a free editable map of the world. The images below highlight infrastructure added to OpenStreetMap (OSM) in central Jakarta.
 
 <figure class="half">
 	<img src="../images/overview/osm2ge.png">
 	<img src="../images/overview/osm2ge2.png">
-	<figcaption>Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia.</figcaption>
+	<figcaption>Bing Map Imagery and OpenStreetMap Image of Kediri and Jakarta, respectively. The dark tan polygons are descriptions of Jakarta’s buildings which were added to OSM.</figcaption>
 </figure>
 
-The dark tan polygons displayed on the right of Fig. 2 are descriptions of Jakarta’s buildings which were added to OSM. This data is now available, not just in the picture or on OSM’s website, but to download by anybody for free for use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
+This data is now available, not just in the picture or on OSM’s website, but to download by anybody for free for use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
 
 -----
 
@@ -38,6 +38,7 @@ Many national governments, IGOs, and NGOs, including USAID/OFDA partners, use Op
 	<figcaption>Image of a map, taken from the latest USAID/OFDA Indonesian Fact Sheet.</figcaption>
 </figure>
 
+This poses 
 
 ###Hazard/Risk Modelling
 
