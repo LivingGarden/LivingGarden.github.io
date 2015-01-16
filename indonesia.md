@@ -29,7 +29,7 @@ This data is now available, not just in the picture or on OSM’s website, but t
 
 ##The Problem
 
-###Decision Making
+####Decision Making
 
 Many national governments, IGOs, and NGOs, including USAID/OFDA partners, use OpenStreetMap data for planning. This evacuation planning map and subsequent image highlights the scarcity of quality information about many at-risk areas.
 
@@ -40,7 +40,7 @@ Many national governments, IGOs, and NGOs, including USAID/OFDA partners, use Op
 
 This poses 
 
-###Hazard/Risk Modelling
+####Hazard/Risk Modelling
 
 The severe lack of available data around Volcanoes in Indonesia was highlighted by OFDA’s Volcano Disaster Assistance Program (VDAP) as a particular challenge to its ability to model the risks posed by volcanic hazards in these areas. VDAP is interested in creating data for these vulnerable areas and working with their counterparts in Indonesia to use these data to improve hazard assessments. They have highlighted 10 priority volcanoes.
 
