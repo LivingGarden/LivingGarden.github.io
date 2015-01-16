@@ -7,7 +7,15 @@ permalink: /indonesia/
 
 #VOLCANIC DISASTERS
 
-Many active volcanoes lack open data about the buildings and infrastructure surrounding them, making it difficult to ascertain the risk posed by volcanic hazards. This problem is especially evident in Indonesia; Figure 1 below demonstrates the extent of this problem. Kediri, a town 19 miles to the West of Mount Kelud in East Java, was evacuated earlier this year when threatened by Kelud’s February eruption. Despite this, virtually no effort has been made to map the homes and infrastructure of this or any other surrounding town. Determining the extent and distribution of risk to local infrastructure posed by Kelud is just as difficult today as it was before its most recent eruption.
+<!--
+ADD TO HOMEPAGE
+
+Many active volcanoes lack open data about the infrastructure surrounding them, making it difficult to determine risk posed by volcanic hazards. This problem is especially evident in Indonesia. Kediri, a town 19 miles to the West of Mount Kelud in East Java, was evacuated earlier this year when threatened by Kelud’s February (2014) eruption. Despite this, virtually no effort has been made to map the surrounding communities.
+
+ADD TO HOMEPAGE
+-->
+
+Open data initiatives and volunteer communities are helping to fix these information gaps around the world. OpenStreetMap, often referred to as the Wikipedia of maps, is a collaborative project to create a free editable map of the world. Figure 2 highlights the infrastructure added to OpenStreetMap (OSM) for a different areas in Indonesia, in this case central Jakarta. Jakarta has received significant attention and effort from OSM volunteer mappers.
 
 <figure class="half">
 	<img src="../images/overview/osm2ge.png">
@@ -15,17 +23,15 @@ Many active volcanoes lack open data about the buildings and infrastructure surr
 	<figcaption>Bing Map Imagery and OpenStreetMap Image of Kediri, Indonesia.</figcaption>
 </figure>
 
-Open data initiatives and volunteer communities are helping to fix these information gaps around the world. OpenStreetMap, often referred to as the Wikipedia of maps, is a collaborative project to create a free editable map of the world. Figure 2 highlights the infrastructure added to OpenStreetMap (OSM) for a different areas in Indonesia, in this case central Jakarta. Jakarta has received significant attention and effort from OSM volunteer mappers.
-
 The dark tan polygons displayed on the right of Fig. 2 are descriptions of Jakarta’s buildings which were added to OSM. This data is now available, not just in the picture or on OSM’s website, but to download by anybody for free for use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
 
 -----
 
-##Missing Data
+##The Problem
 
 ###Decision Making
 
-Many national governments, IGOs, and NGOs, including USAID/OFDA partners, use OpenStreetMap data for planning. This evacuation planning map and subsequent {{site.url}}../images/overview highlight the scarcity of quality information about many at-risk areas.
+Many national governments, IGOs, and NGOs, including USAID/OFDA partners, use OpenStreetMap data for planning. This evacuation planning map and subsequent image highlights the scarcity of quality information about many at-risk areas.
 
 <figure>
 	<img src="../images/overview/harlan.png">
@@ -118,6 +124,9 @@ The severe lack of available data around Volcanoes in Indonesia was highlighted 
 
 To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian programs, and the broader humanitarian community's capacity to plan and respond to eruptions at the target volcanoes, a data creation event centered around the OpenStreetMap platform may be an optimal way to both create data and engage the local Indonesian community. This event would promote the creation of data on the location and distribution of buildings, roads and agricultural fields around a 50 km radius of their 10 volcanoes.
 
+<!--
+ADD TO OPEN DATA PAGE
+
 ###What is Volunteer Data Creation?
 
 Volunteer data creation refers to activities that encourage a group of volunteers to create and edit spatial information using a variety of sources (such as satellite imagery) in a database that is freely open and available to the humanitarian community. Often these activities are organized around specific events called mapping parties in which participants meet to edit the map together.
@@ -133,22 +142,12 @@ Previous mapping parties have looked very different depending on what is being m
 
 Beyond the collection of of useful data, volunteer mapping also serves as a productive outreach vehicle. These activities convene interest around the subject and give interested parties an avenue to participate in international humanitarianism productively.
 
+ADD TO OPEN DATA PAGE
+-->
+
 ----
 
-##Potential Options
+##Data Benefits
 
-An event aimed at promoting the creation of data on the location and distribution of buildings, roads and agricultural fields around a 50 km radius of their 10 volcanoes. The event would take place March/April 2015 and could be handled in two ways. If encouraging Indonesian participation is not identified as an explicit goal than we could continue on with this activity focused around a domestic event at no cost to OFDA save for some staff time. If we aim to encourage Indonesian volunteerism than some funding would be necessary to secure an international partner who can host a linked event in Indonesia and assist in coordination and outreach.
-
-It is expected that in March 2015, volcanoes in Indonesia will not be receiving the consistent media coverage that has focused the public’s attention and increased volunteers. Because of this, special outreach measures are necessary to garner support for this effort. The most effective way to perform this outreach is through partnership and by leveraging the resources of the intra-agency.
-
-The following efforts will help to elicit participation in this activity:
-
-<strong>DC Mapping Event</strong>
-<ol></ol>
-* This activity could be focused around a domestic event at no cost to OFDA save for some staff time. Hosting the activity under the umbrella of USAID/Geocenter’s “Mapping for Resilience” program would ensure that the mapping event is incorporated into a GIS class at a local university (George Washington University), guaranteeing a base level of participation.
-<ol></ol>
-
-<strong>Indonesia Mapping Event</strong>
-<ol></ol>
-* VDAP is specifically interested in ways to get Indonesians to participate in mapping infrastructure around Volcanoes since local knowledge is always helpful in providing better accuracy and depth to the data. If we aim to encourage the participation of Indonesian volunteers, some funding would be necessary to secure an international partner who can host a linked event in Indonesia and assist with coordination and outreach. Training documentation would need to be translated to Indonesian to ensure training materials are available to assist less experienced participants. An Indonesian partner (yet to be identified) could promote the activity to local universities, identify a location for the mapping event and host it.
+Blaaaaaaaaaaaaaaaaah
 
