@@ -144,7 +144,6 @@ Beyond the collection of of useful data, volunteer mapping also serves as a prod
 
 ADD TO OPEN DATA PAGE
 -->
-
 ----
 
 ##Data Benefits
