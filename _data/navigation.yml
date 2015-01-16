@@ -2,15 +2,20 @@
 
 - title: Home
   url: /
-  excerpt: The homepage.
+  excerpt: 
   image:
 
-- title: Overview
-  url: /overview/
+- title: Open Data
+  url: /opendata/
   excerpt: A summary of the problems associated with missing data.
+  image:
+
+- title: Indonesia
+  url: /overview/
+  excerpt: A summary of the missing data surrounding Indonesian volcanoes.
   image:
 
 - title: Guide
   url: /guide/
-  excerpt: An OpenStreetMap guide to mapping around Indonesian volcanoes.
+  excerpt: An OpenStreetMap training guide to mapping around Indonesian volcanoes.
   image:
