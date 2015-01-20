@@ -111,14 +111,12 @@ The severe lack of available data around Volcanoes in Indonesia was highlighted 
 
 ----
 
-##Solutions
+##Solution
 
 OpenStreetMap data is freely available for anyone to download and use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
 
 To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian programs, and the broader humanitarian community's capacity to plan and respond to eruptions at the target volcanoes, a data creation event centered around the OpenStreetMap platform may be an optimal way to both create data and engage the local Indonesian community. This event would promote the creation of data on the location and distribution of buildings, roads and agricultural fields around a 50 km radius of their 10 volcanoes.
 
-----
-
-##Data Benefits
+###Data Benefits
 
 The data produced from this mapping party will be used in several ways.
