@@ -119,8 +119,11 @@ To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian pr
 
 Using OpenStreetMap to organize areas to map has been made easier through the use of the OSM Tasking Manager. An example of which can be seen for Kelud [HERE](http://tasks.hotosm.org/project/425).
 
-###Data Benefits
+##Data Benefits
 
-The data produced from this mapping party will be used in several ways.
+OpenStreetMap data is freely available for anyone to download and use in a variety of software. The data produced from this mapping party will be used in several applications. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
 
-OpenStreetMap data is freely available for anyone to download and use in a variety of software. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
+###USGS VDAP
+
+* Modelling
+* 
