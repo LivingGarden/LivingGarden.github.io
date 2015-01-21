@@ -117,7 +117,7 @@ To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian pr
 
 ###OpenStreetMap
 
-Using 
+Using OpenStreetMap to organize areas to map has been made easier through the use of the OSM Tasking Manager. An example of which can be seen for Kelud [HERE](http://tasks.hotosm.org/project/425).
 
 ###Data Benefits
 
