@@ -97,7 +97,9 @@ The severe lack of available data around Volcanoes in Indonesia was highlighted 
 	<figcaption>Location of all volcanoes listed in the table above.</figcaption>
 </figure>
 
-The long-term plan is to map all populated areas within a 50km radius of each of the volcanoes. Based on satellite imagery, this will be a big task that will have to be seperated into steps.  
+The long-term plan is to map all populated areas within a 50km radius of each of the volcanoes. This will be a big task, as some volcanoes have several urban clusters within the focus area.  The ongoing OpenStreetMap task for Kelud can be found [HERE](http://tasks.hotosm.org/project/425). To determine how much effort will be needed to map all 10 volcanoes, we are going to map *insert two determined volcanoes*. <!--....................VOLCANOES TO FOCUS ON AND WHY....................-->
+
+
 
 ----
 
@@ -107,14 +109,24 @@ OpenStreetMap data is freely available for anyone to download and use in a varie
 
 ####USGS VDAP
 
-* LAHARZ
-* P.A.G.E.R.
+LAHARZ
+* 
+
+P.A.G.E.R.
+* 
 
 ####USAID/OFDA
 
-*Planning
-*Products
+Planning
+* 
+
+Products
+* 
 
 ####Other NGOs
 
-*Planning
+Planning
+* Similar to the USAID/OFDA section
+
+Development
+* 
