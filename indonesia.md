@@ -7,7 +7,8 @@ permalink: /indonesia/
 
 #INDONESIAN VOLCANOES
 
-![Indonesia](http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brunei_Indonesia_Locator.svg/1280px-Brunei_Indonesia_Locator.svg.png)
+![Indonesia](http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Paluweh_volcano_in_Indonesia.jpg/1280px-Paluweh_volcano_in_Indonesia.jpg)
+<!--![Indonesia](http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brunei_Indonesia_Locator.svg/1280px-Brunei_Indonesia_Locator.svg.png)-->
 
 For background on open data and the OpenStreetMap platform, see the [PROBLEM](http://wuhland.github.io/opendata/) section.
 
@@ -95,6 +96,8 @@ The severe lack of available data around Volcanoes in Indonesia was highlighted 
 	<img src="../images/overview/ind.png">
 	<figcaption>Location of all volcanoes listed in the table above.</figcaption>
 </figure>
+
+The long-term plan is to map all populated areas within a 50km radius of each of the volcanoes. 
 
 ----
 
