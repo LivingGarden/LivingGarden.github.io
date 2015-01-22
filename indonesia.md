@@ -98,13 +98,7 @@ The severe lack of available data around Volcanoes in Indonesia was highlighted 
 
 ----
 
-##HOW?
-
-----
-
-##WHY?
-
-###Data Benefits
+##Data Benefits
 
 OpenStreetMap data is freely available for anyone to download and use in a variety of software. The data produced from this mapping party will be used in several applications. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
 
