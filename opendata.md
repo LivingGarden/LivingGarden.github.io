@@ -11,6 +11,14 @@ permalink: /opendata/
 
 Many national governments, IGOs, and NGOs, including USAID/OFDA partners, use OpenStreetMap data for planning. This evacuation planning map and subsequent image highlights the scarcity of quality information about many at-risk areas.
 
+##Solution
+
+To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian programs, and the broader humanitarian community's capacity to plan and respond to eruptions at the target volcanoes, a data creation event centered around the OpenStreetMap platform may be an optimal way to both create data and engage the local Indonesian community. This event would promote the creation of data on the location and distribution of buildings, roads and agricultural fields. Volunteers would either map a 50 km radius around the volcano or major adjacent cities.
+
+###OpenStreetMap
+
+Using OpenStreetMap to organize areas to map has been made easier through the use of the OSM Tasking Manager. An example of which can be seen for Kelud [HERE](http://tasks.hotosm.org/project/425).
+
 ###What is Volunteer Data Creation?
 
 Volunteer data creation refers to activities that encourage a group of volunteers to create and edit spatial information using a variety of sources (such as satellite imagery) in a database that is freely open and available to the humanitarian community. Often these activities are organized around specific events called mapping parties in which participants meet to edit the map together.
