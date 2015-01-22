@@ -7,19 +7,14 @@ permalink: /indonesia/
 
 #INDONESIAN VOLCANOES
 
+<!--![Indonesia](http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Paluweh_volcano_in_Indonesia.jpg/1280px-Paluweh_volcano_in_Indonesia.jpg)-->
+
+![Indonesia](http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brunei_Indonesia_Locator.svg/1280px-Brunei_Indonesia_Locator.svg.png)
 For background on open data and the OpenStreetMap platform, see the [PROBLEM](http://wuhland.github.io/opendata/) section.
 
-The first planned mapping project will be conducted in Indonesia. The focus of the mapping event will be exclusively on volcanic regions of the country. Volcanoes were chosen because they present a clear future hazard to surrounding cities. In fact, more than 75% of Indonesians live within 100 km of the country's approx. 127 active volcanoes. This is the highest number in the world. Coupled with their sizable population density (237 million), 
+The first planned mapping project will be conducted in Indonesia. The focus of the mapping event will be exclusively on volcanic regions of the country. Volcanoes were chosen because they present a clear future hazard to surrounding cities. More than 75% of Indonesians live within 100 km of the country's approx. 127 active volcanoes, the highest number in the world. 
 
-The country was chosen for several reasons, the major Between 1980 and 2008, approximately 300,000 Indonesians have been affected at a cost of $160 million USD. Kediri, a town 19 miles to the Westof Mount Kelud in East Java, was evacuated earlier this year when threatened by Kelud’s February (2014) eruption. 
-
-Open data initiatives and volunteer communities are helping to fix these information gaps around the world. OpenStreetMap, often referred to as the Wikipedia of maps, is a collaborative project to create a free editable map of the world. The images below highlight infrastructure added to OpenStreetMap (OSM) in central Jakarta.
-
-<figure class="half">
-	<img src="../images/overview/osm2ge.png">
-	<img src="../images/overview/osm2ge2.png">
-	<figcaption>Bing Map Imagery and OpenStreetMap Image of Kediri and Jakarta, respectively. The dark tan polygons are descriptions of Jakarta’s buildings which were added to OSM.</figcaption>
-</figure>
+Proximity to volcanoes coupled with Indonesia's sizable population density (237 million), makes any volcanic eruption has the potential for widespread damage. Between 1980 and 2008, approximately 300,000 Indonesians have been affected at a cost of $160 million USD.
 
 -----
 
@@ -102,13 +97,37 @@ The severe lack of available data around Volcanoes in Indonesia was highlighted 
 	<figcaption>Location of all volcanoes listed in the table above.</figcaption>
 </figure>
 
+The long-term plan is to map all populated areas within a 50km radius of each of the volcanoes. This will be a big task, as some volcanoes have several urban clusters within the focus area.  The ongoing OpenStreetMap task for Kelud can be found [HERE](http://tasks.hotosm.org/project/425). To determine how much effort will be needed to map all 10 volcanoes, we are going to map *insert two determined volcanoes*. <!--....................VOLCANOES TO FOCUS ON AND WHY....................-->
+
+
+
 ----
 
 ##DATA BENEFITS
 
 OpenStreetMap data is freely available for anyone to download and use in a variety of software. The data produced from this mapping party will be used in several applications. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
 
-###USGS VDAP
+####USGS VDAP
 
-* Modelling
-* 
+#####LAHARZ
+
+
+#####P.A.G.E.R.
+
+
+####USAID/OFDA
+
+
+#####Planning
+
+
+#####Products
+
+
+####Other NGOs
+
+
+#####Planning
+Similar to the USAID/OFDA section</i></strong>
+
+#####Development

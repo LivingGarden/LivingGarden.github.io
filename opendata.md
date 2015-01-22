@@ -37,3 +37,11 @@ Beyond the collection of of useful data, volunteer mapping also serves as a prod
 <iframe src="//player.vimeo.com/video/9182869" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <p><a href="http://vimeo.com/9182869">OpenStreetMap - Project Haiti</a> from <a href="http://vimeo.com/itoworld">ItoWorld</a>
+
+Open data initiatives and volunteer communities are helping to fix these information gaps around the world. OpenStreetMap, often referred to as the Wikipedia of maps, is a collaborative project to create a free editable map of the world. The images below highlight infrastructure added to OpenStreetMap (OSM) in central Jakarta.
+
+<figure class="half">
+	<img src="../images/overview/osm2ge.png">
+	<img src="../images/overview/osm2ge2.png">
+	<figcaption>Bing Map Imagery and OpenStreetMap Image of Kediri and Jakarta, respectively. The dark tan polygons are descriptions of Jakarta’s buildings which were added to OSM.</figcaption>
+</figure>
