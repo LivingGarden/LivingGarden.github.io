@@ -17,20 +17,7 @@ Open data initiatives and volunteer communities are helping to fix these informa
 
 -----
 
-##The Problem
-
-####Decision-Making
-
-One of the biggest problems with missing data is the use of limited data in decision making processes. Many national governments, IGOs, and NGOs (including USAID/OFDA partners) use OpenStreetMap data for planning. The evacuation planning map below highlights the scarcity of quality information on at-risk areas.
-
-<figure>
-	<img src="../images/overview/harlan.png">
-	<figcaption>Image of a map, taken from the latest USAID/OFDA Indonesian Fact Sheet.</figcaption>
-</figure>
-
-As seen in the image, there is an incredible amount of information missing. Were the data used at its current state, one would assume that the area is a scarcely populated section of the city. The missing buildings and roads, however, can be added.
-
-####Hazard/Risk Modelling
+##PLAN OF ACTION
 
 The severe lack of available data around Volcanoes in Indonesia was highlighted by OFDA’s Volcano Disaster Assistance Program (VDAP) as a particular challenge to its ability to model the risks posed by volcanic hazards in these areas. VDAP is interested in creating data for these vulnerable areas and working with their counterparts in Indonesia to use these data to improve hazard assessments. They have highlighted 10 priority volcanoes.
 
@@ -111,15 +98,13 @@ The severe lack of available data around Volcanoes in Indonesia was highlighted 
 
 ----
 
-##Solution
+##HOW?
 
-To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian programs, and the broader humanitarian community's capacity to plan and respond to eruptions at the target volcanoes, a data creation event centered around the OpenStreetMap platform may be an optimal way to both create data and engage the local Indonesian community. This event would promote the creation of data on the location and distribution of buildings, roads and agricultural fields. Volunteers would either map a 50 km radius around the volcano or major adjacent cities.
+----
 
-###OpenStreetMap
+##WHY?
 
-Using OpenStreetMap to organize areas to map has been made easier through the use of the OSM Tasking Manager. An example of which can be seen for Kelud [HERE](http://tasks.hotosm.org/project/425).
-
-##Data Benefits
+###Data Benefits
 
 OpenStreetMap data is freely available for anyone to download and use in a variety of software. The data produced from this mapping party will be used in several applications. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
 
