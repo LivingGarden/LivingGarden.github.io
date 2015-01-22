@@ -5,13 +5,13 @@
   excerpt: 
   image:
 
-- title: Open Data
-  url: /opendata/
+- title: Problem
+  url: /problem/
   excerpt: A summary of the problems associated with missing data.
   image:
 
-- title: Indonesia
-  url: /indonesia/
+- title: Plan
+  url: /plan/
   excerpt: A summary of the missing data surrounding Indonesian volcanoes.
   image:
 
