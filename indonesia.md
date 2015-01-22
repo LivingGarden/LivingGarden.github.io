@@ -97,7 +97,7 @@ The severe lack of available data around Volcanoes in Indonesia was highlighted 
 	<figcaption>Location of all volcanoes listed in the table above.</figcaption>
 </figure>
 
-The long-term plan is to map all populated areas within a 50km radius of each of the volcanoes. 
+The long-term plan is to map all populated areas within a 50km radius of each of the volcanoes. Based on satellite imagery, this will be a big task that will have to be seperated into steps.  
 
 ----
 
@@ -105,7 +105,16 @@ The long-term plan is to map all populated areas within a 50km radius of each of
 
 OpenStreetMap data is freely available for anyone to download and use in a variety of software. The data produced from this mapping party will be used in several applications. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
 
-###USGS VDAP
+####USGS VDAP
 
-* Modelling
-* 
+* LAHARZ
+* P.A.G.E.R.
+
+####USAID/OFDA
+
+*Planning
+*Products
+
+####Other NGOs
+
+*Planning
