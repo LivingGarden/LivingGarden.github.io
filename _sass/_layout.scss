@@ -118,7 +118,7 @@
 	padding: $gutter; // add white space for smaller screens
 	margin-right: auto;
 	margin-left: auto;
-	@include size(68rem 100%);
+	@include size(70rem 100%);
 	@include position (relative);
 	-webkit-overflow-scrolling: touch;
 	z-index: 2;
@@ -128,7 +128,6 @@
 		@include transform(translate(-60rem,0));
 	}
 }
-
 
 // BROWSER UPGRADE
 // --------------------------------------------------
@@ -325,10 +324,11 @@
 // table of contents
 .toc {
 	min-height: 1px;
-	float: right;
 	display: block;
-	position: fixed;
-	right: $gutter;	
+	right: $gutter;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
 	ul {
 		margin-top: $gutter;
 		border: 1px solid $border-color;
@@ -336,7 +336,7 @@
 	}
 	li {
 		@include media($micro) { @include font-size(16,no,18); }
-    @include media($small) { @include font-size(16,no,18); }
+                @include media($small) { @include font-size(16,no,18); }
 		@include font-size(12,no,16);
 		border-bottom: 1px solid $border-color;
 	}
@@ -350,6 +350,11 @@
 			background: lighten($border-color,5);
 		}
 	}
+    //@mixin media-query($device) {
+    	//@media screen and (max-width: $device) {
+        //@content;
+    	//}
+    //}
 }
 // tiles
 .tile {

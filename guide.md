@@ -9,15 +9,16 @@ toc: true
 
 #OpenStreetMap Tracing Guide
 
+The purpose of this guide is to assist remote mappers in indentifying geographic features unique to volcanic areas of Indonesia. Listed in this guide are the most common features you can identify using high resolution satellite imagery. For reference on the basics of how to use OpenStreetMap, see the State Department's [MapGive](http://mapgive.state.gov/learn-to-map/) website.
 
-
-![OSM]({{site.url}}../images/guide/OSM2.png)
-
-TO EXPAND: The purpose of this guide is to assist remote mappers in indentifying geographic features unique to volcanic areas of Indonesia. Listed in this guide are the most common features you can identify using high resolution satellite imagery. For reference on the basics of how to use OpenStreetMap, see the State Department's [MapGive](http://mapgive.state.gov/learn-to-map/) website.
+<figure>
+	<img src="../images/guide/OSM2.png">
+	<figcaption>An example of the OpenStreetMap interface.</figcaption>
+</figure>
 
 -----
 
-##TAGGING FEATURES AND ATTRIBUTION
+##Tagging Features
 
 ###Tagging
 It is important that features are tagged appropriately and consistently. 
@@ -64,7 +65,9 @@ OpenStreetMap is a collaborative platform. If you see traced features that look 
 ###Saving Edits
 Save your edits often, as a browser crash will delete all unsaved tracing.
 
-##TRACING FEATURES
+----
+
+##Tracing Features
 
 ###Buildings
 
@@ -73,21 +76,25 @@ Common building types in this region include, but are not limited to: homes, hea
 How to Trace Buildings
 To trace buildings, place a node around every corner. Some buildings will be harder to discern than others--in these cases, trace the buildings as best as possible. When tracing is complete, remember to tag the newly added feature. See the images below for a step-by-step explaination on how to trace a building.
 
-![OSMBuilding]({{site.url}}../images/guide/building.png)
-<br />
-<sup><i>Find a building that has not been mapped yet.</i></sup>
+<figure>
+	<img src="../images/guide/building.png">
+	<figcaption>Find a building that has not been mapped yet.</figcaption>
+</figure>
 
-![OSMBuilding2]({{site.url}}../images/guide/building2.png)
-<br />
-<sup><i>Click on "Area" and begin tracing. Place a node at each corner of the building. A node is placed every time a user clicks on the mouse.</i></sup>
+<figure>
+	<img src="../images/guide/building2.png">
+	<figcaption>Click on "Area" and begin tracing. Place a node at each corner of the building. A node is placed every time a user clicks on the mouse.</figcaption>
+</figure>
 
-![OSMBuilding3]({{site.url}}../images/guide/building3.png)
-<br />
-<sup><i>After tracing is complete, double click to complete the polygon. Look at the tag list and click on "building".</i></sup>
+<figure>
+	<img src="../images/guide/building3.png">
+	<figcaption>After tracing is complete, double click to complete the polygon. Look at the tag list and click on "building".</figcaption>
+</figure>
 
-![OSMBuildingGIF]({{site.url}}../images/guide/buildingGIF.gif)
-<br />
-<sup><i>An animation of the process.</i></sup>
+<figure>
+	<img src="../images/guide/buildingGIF.gif">
+	<figcaption>An animation of the process.</figcaption>
+</figure>
 
 -----
 
@@ -98,30 +105,35 @@ Many of the water features users encounter in Indonesia have already been added.
 Editing Water Features:
 While many water features are already in OSM, not all are traced correctly. Some were added via bulk upload using global datasets and as such, do not have good granularity.
 
-![OSMWater3]({{site.url}}../images/guide/river4.png)
-<br />
-<sup><i>Editing a line feature.</i></sup>
+<figure>
+	<img src="../images/guide/river4.png">
+	<figcaption>Editing a line feature.</figcaption>
+</figure>
 
-![OSMWaterGIF2]({{site.url}}../images/guide/riverGIF.gif)
-<br />
-<sup><i>Animation of editing a line feature.</i></sup>
+<figure>
+	<img src="../images/guide/riverGIF.gif">
+	<figcaption>Animation of editing a line feature.</figcaption>
+</figure>
 
 Creating Water Features:
 When creating new water features in OSM, you first need to determine if a area or line is necessary. The choice is mostly in reference to rivers. You may trace the river as a polygon or use the line tool to trace the along the <i>center</i> of the river. With either option, the user must trace the whole length of the river. Because of this, both options will involve zooming and panning around the imagery.
 
 How to Trace Rivers
 
-![OSMWater]({{site.url}}../images/guide/river5.png)
-<br />
-<sup><i>Find a river that isn't in OSM and click on "Line".</i></sup>
+<figure>
+	<img src="../images/guide/river5.png">
+	<figcaption>Find a river that isn't in OSM and click on "Line".</figcaption>
+</figure>
 
-![OSMWater2]({{site.url}}../images/guide/river6.png)
-<br />
-<sup><i>When done tracing, double click and tag appropriately.</i></sup>
+<figure>
+	<img src="../images/guide/river6.png">
+	<figcaption>When done tracing, double click and tag appropriately.</figcaption>
+</figure>
 
-![OSMWaterGIF]({{site.url}}../images/guide/river2GIF.gif)
-<br />
-<sup><i>Short animation of river tracing.</i></sup>
+<figure>
+	<img src="../images/guide/river2GIF.gif">
+	<figcaption>Short animation of river tracing.</figcaption>
+</figure>
 
 -----
 
@@ -130,27 +142,32 @@ How to Trace Rivers
 Editing Road Features:
 Similar to the river features, not all road data is properly traced in OSM and can be edited. Roads may also not be completely, in which case a user can finish tracing the length of the road. 
 
-![OSMRoads3]({{site.url}}../images/guide/road.png)
-<br />
-<sup><i>Click on the last node of a line and select "Continue this line".</i></sup>
+<figure>
+	<img src="../images/guide/road.png">
+	<figcaption>Click on the last node of a line and select "Continue this line".</figcaption>
+</figure>
 
-![OSMRoadsGIF2]({{site.url}}../images/guide/roadGIF.gif)
-<br />
-<sup><i>Short animation on road editing.</i></sup>
+<figure>
+	<img src="../images/guide/roadGIF.gif">
+	<figcaption>Short animation on road editing.</figcaption>
+</figure>
 
 Creating Road Features:
 There are plenty of roads that have not been traced into OpenStreetMap yet. If it is unclear what type of road it is, use the general "road" tag.
 
 How to Trace Roads
 
-![OSMRoads]({{site.url}}../images/guide/road2.png)
-<br />
-<sup><i>Find a road that hasn't been traced in OSM. Click "Line" and begin tracing.</i></sup>
+<figure>
+	<img src="../images/guide/road2.png">
+	<figcaption>Find a road that hasn't been traced in OSM. Click "Line" and begin tracing.</figcaption>
+</figure>
 
-![OSMRoads2]({{site.url}}../images/guide/road3.png)
-<br />
-<sup><i>Double-click when done and tag the new feature appropriately.</i></sup>
+<figure>
+	<img src="../images/guide/road3.png">
+	<figcaption>Double-click when done and tag the new feature appropriately.</figcaption>
+</figure>
 
-![OSMRoadsGIF]({{site.url}}../images/guide/road2GIF.gif)
-<br />
-<sup><i>Short animation on road creation.</i></sup>
+<figure>
+	<img src="../images/guide/road2GIF.gif">
+	<figcaption>Short animation on road creation.</figcaption>
+</figure>

@@ -1,16 +1,21 @@
 # Site navigation links
 
-- title: Intro
+- title: Home
   url: /
-  excerpt:
+  excerpt: 
   image:
 
-- title: Overview
-  url: /overview/
-  excerpt:
+- title: Open Data
+  url: /opendata/
+  excerpt: A summary of the problems associated with missing data.
+  image:
+
+- title: Indonesia
+  url: /indonesia/
+  excerpt: A summary of the missing data surrounding Indonesian volcanoes.
   image:
 
 - title: Guide
   url: /guide/
-  excerpt:
+  excerpt: An OpenStreetMap training guide to mapping around Indonesian volcanoes.
   image:

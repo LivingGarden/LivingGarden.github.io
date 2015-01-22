@@ -9,7 +9,7 @@
 	display: block;
 	width: $button-size * 2;
 	height: $button-size * 2;
-	background: #000;
+	background: #336799;
 	outline: 0;
 	padding: 0;
 	border: 2.5px solid transparent;
@@ -42,11 +42,11 @@
 	}
 	@include size(100% 100%);
 	@include media($medium) {
-		@include size(87% 100%);
+		@include size(40% 100%);
 	}
 	@include transform(translateX(100%));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
-	background: $sliding-menu-background;
+	background: #336799;
 	z-index: 5;
 	overflow-y: auto;
 	overflow-x: hidden;
