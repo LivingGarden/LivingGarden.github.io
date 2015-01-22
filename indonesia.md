@@ -7,19 +7,13 @@ permalink: /indonesia/
 
 #INDONESIAN VOLCANOES
 
+![Indonesia](http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brunei_Indonesia_Locator.svg/1280px-Brunei_Indonesia_Locator.svg.png)
+
 For background on open data and the OpenStreetMap platform, see the [PROBLEM](http://wuhland.github.io/opendata/) section.
 
 The first planned mapping project will be conducted in Indonesia. The focus of the mapping event will be exclusively on volcanic regions of the country. Volcanoes were chosen because they present a clear future hazard to surrounding cities. More than 75% of Indonesians live within 100 km of the country's approx. 127 active volcanoes, the highest number in the world. 
 
 Proximity to volcanoes coupled with Indonesia's sizable population density (237 million), makes any volcanic eruption has the potential for widespread damage. Between 1980 and 2008, approximately 300,000 Indonesians have been affected at a cost of $160 million USD.
-
-Open data initiatives and volunteer communities are helping to fix these information gaps around the world. OpenStreetMap, often referred to as the Wikipedia of maps, is a collaborative project to create a free editable map of the world. The images below highlight infrastructure added to OpenStreetMap (OSM) in central Jakarta.
-
-<figure class="half">
-	<img src="../images/overview/osm2ge.png">
-	<img src="../images/overview/osm2ge2.png">
-	<figcaption>Bing Map Imagery and OpenStreetMap Image of Kediri and Jakarta, respectively. The dark tan polygons are descriptions of Jakarta’s buildings which were added to OSM.</figcaption>
-</figure>
 
 -----
 
