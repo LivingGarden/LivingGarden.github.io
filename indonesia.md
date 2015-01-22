@@ -5,9 +5,9 @@ toc: true
 permalink: /indonesia/
 ---
 
-#INDONESIA VOLCANOES
+#INDONESIAN VOLCANOES
 
-For background on open data and the OpenStreetMap platform, see the [OPEN DATA](http://wuhland.github.io/opendata/) section.
+->For background on open data and the OpenStreetMap platform, see the [PROBLEM](http://wuhland.github.io/opendata/) section.<-
 
 The first planned mapping project will be conducted in Indonesia. The focus of the mapping event will be exclusively on volcanic regions of the country. Volcanoes were chosen because they present a clear future hazard to surrounding cities. In fact, more than 75% of Indonesians live within 100 km of the country's approx. 127 active volcanoes. This is the highest number in the world. Coupled with their sizable population density (237 million), 
 
