@@ -9,9 +9,9 @@ permalink: /indonesia/
 
 For background on open data and the OpenStreetMap platform, see the [PROBLEM](http://wuhland.github.io/opendata/) section.
 
-The first planned mapping project will be conducted in Indonesia. The focus of the mapping event will be exclusively on volcanic regions of the country. Volcanoes were chosen because they present a clear future hazard to surrounding cities. In fact, more than 75% of Indonesians live within 100 km of the country's approx. 127 active volcanoes. This is the highest number in the world. Coupled with their sizable population density (237 million), 
+The first planned mapping project will be conducted in Indonesia. The focus of the mapping event will be exclusively on volcanic regions of the country. Volcanoes were chosen because they present a clear future hazard to surrounding cities. More than 75% of Indonesians live within 100 km of the country's approx. 127 active volcanoes, the highest number in the world. 
 
-The country was chosen for several reasons, the major Between 1980 and 2008, approximately 300,000 Indonesians have been affected at a cost of $160 million USD. Kediri, a town 19 miles to the Westof Mount Kelud in East Java, was evacuated earlier this year when threatened by Kelud’s February (2014) eruption. 
+Proximity to volcanoes coupled with Indonesia's sizable population density (237 million), makes any volcanic eruption has the potential for widespread damage. Between 1980 and 2008, approximately 300,000 Indonesians have been affected at a cost of $160 million USD.
 
 Open data initiatives and volunteer communities are helping to fix these information gaps around the world. OpenStreetMap, often referred to as the Wikipedia of maps, is a collaborative project to create a free editable map of the world. The images below highlight infrastructure added to OpenStreetMap (OSM) in central Jakarta.
 
