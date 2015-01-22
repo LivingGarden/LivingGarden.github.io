@@ -109,22 +109,25 @@ OpenStreetMap data is freely available for anyone to download and use in a varie
 
 ####USGS VDAP
 
-<strong><i>LAHARZ</i></strong>
+#####LAHARZ
 
 
-<strong><i>P.A.G.E.R.</i></strong>
+#####P.A.G.E.R.
 
 
 ####USAID/OFDA
 
-<strong><i>Planning</i></strong>
 
-<strong><i>Products</i></strong>
+#####Planning
+
+
+#####Products
+
 
 ####Other NGOs
 
-<strong><i>Planning</i></strong>
 
+#####Planning
 Similar to the USAID/OFDA section</i></strong>
 
 #####Development
