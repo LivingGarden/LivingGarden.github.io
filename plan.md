@@ -9,7 +9,7 @@ permalink: /plan/
 
 <figure>
 	<img src="../images/overview/kediri_overview.png">
-	<figcaption>Location of all volcanoes listed in the table above.</figcaption>
+	<figcaption>An image of Mount Kelud and it's nearest city.</figcaption>
 </figure>
 
 For background on open data and the OpenStreetMap platform, see the [PROBLEM](http://wuhland.github.io/opendata/) section.
