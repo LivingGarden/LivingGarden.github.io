@@ -7,10 +7,7 @@ permalink: /plan/
 
 #INDONESIAN VOLCANOES
 
-<figure>
-	<img src="../images/overview/kediri_overview.png">
-	<figcaption>Location of all volcanoes listed in the table above.</figcaption>
-</figure>
+![Keidri]("../images/overview/kediri_overview.png")
 
 For background on open data and the OpenStreetMap platform, see the [PROBLEM](http://wuhland.github.io/opendata/) section.
 
