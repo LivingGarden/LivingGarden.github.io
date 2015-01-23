@@ -7,7 +7,10 @@ permalink: /plan/
 
 #INDONESIAN VOLCANOES
 
-![Kediri](../images/overview/kediri_overview.png)
+<figure>
+	<img src="../images/overview/kediri_overview.png">
+	<figcaption>Location of all volcanoes listed in the table above.</figcaption>
+</figure>
 
 For background on open data and the OpenStreetMap platform, see the [PROBLEM](http://wuhland.github.io/opendata/) section.
 
@@ -96,20 +99,23 @@ The severe lack of available data around Volcanoes in Indonesia was highlighted 
 	<figcaption>Location of all volcanoes listed in the table above.</figcaption>
 </figure>
 
-The long-term plan is to map all populated areas within a 50km radius of each of the volcanoes. This will be a big task, as some volcanoes have several urban clusters within the target area. To determine how much effort will be needed to map all 10 volcanoes, the event's focus will be on mapping Kelud and *Volcano*. Exactly how much work will be needed to complete the volcanoes will depend heavily on the surrounding area. Kelud, for example, has a number of large urban clusters within a 50km radius. Because of this, some effort has been done by NGOs to map Kelud--the ongoing OpenStreetMap task can be found [HERE](http://tasks.hotosm.org/project/425). *The second volcano...*
+The long-term plan is to map all populated areas within a 50km radius of each of the volcanoes. This will be a big task, as some volcanoes have several urban clusters within the target area. To determine how much effort will be needed to map all 10 volcanoes, the event's focus will be on mapping Kelud and *Volcano*. 
 
+Exactly how much work will be needed to complete the volcanoes will depend heavily on the surrounding area. Kelud, for example, has a number of large urban clusters within a 50km radius. Because of this, some effort has been done by NGOs to map Kelud. The ongoing OpenStreetMap task can be found [HERE](http://tasks.hotosm.org/project/425). *The second volcano...*
 
+To map Kelud and *other volcano*, we will be working with USAID Global Development Lab's Geocenter--sepecifically their Mapping for Resilience program. The Geocenter teams up with the George Washington University to map areas of interest. 
 
 ----
 
-##DATA BENEFITS
+##DATA USE
 
-OpenStreetMap data is freely available for anyone to download and use in a variety of software. The data produced from this mapping party will be used in several applications. This data can be used in hazard risk models, to inform development decisions or for a variety of other purposes.
+OpenStreetMap data is freely available for anyone to download and use in a variety of software. The data produced from this mapping party will be used in several applications. Mostly, for the purposes of USAID and NGOs, the data will be used in hazard risk models and to supplement development programs. For more information on how OpenStreetMap data is used, see the [PROBLEM](http://wuhland.github.io/opendata/) section.
 
+<!--
 ####USGS VDAP
 
 #####LAHARZ
-
+Infrastructure data is used to 
 
 #####P.A.G.E.R.
 
@@ -127,6 +133,7 @@ OpenStreetMap data is freely available for anyone to download and use in a varie
 
 
 #####Planning
-Similar to the USAID/OFDA section</i></strong>
+Similar to the USAID/OFDA section.
 
 #####Development
+-->
