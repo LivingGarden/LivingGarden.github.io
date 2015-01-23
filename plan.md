@@ -8,7 +8,7 @@ permalink: /plan/
 #INDONESIAN VOLCANOES
 
 <figure>
-	<img src="../images/overview/kediri_overview.png">
+	<img src="../images/overview/kediri_ov.png">
 	<figcaption>An image of Mount Kelud and it's nearest city.</figcaption>
 </figure>
 
