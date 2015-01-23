@@ -7,7 +7,7 @@ permalink: /plan/
 
 #INDONESIAN VOLCANOES
 
-![Keidri]("../images/overview/kediri_overview.png")
+![Keidri](../images/overview/kediri_overview.png)
 
 For background on open data and the OpenStreetMap platform, see the [PROBLEM](http://wuhland.github.io/opendata/) section.
 
