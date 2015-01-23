@@ -7,9 +7,11 @@ permalink: /plan/
 
 #INDONESIAN VOLCANOES
 
-<!--![Indonesia](http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Paluweh_volcano_in_Indonesia.jpg/1280px-Paluweh_volcano_in_Indonesia.jpg)-->
+<figure>
+	<img src="../images/overview/kediri_overview.png">
+	<figcaption>Location of all volcanoes listed in the table above.</figcaption>
+</figure>
 
-![Indonesia](http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brunei_Indonesia_Locator.svg/1280px-Brunei_Indonesia_Locator.svg.png)
 For background on open data and the OpenStreetMap platform, see the [PROBLEM](http://wuhland.github.io/opendata/) section.
 
 The first planned mapping project will be conducted in Indonesia. The focus of the mapping event will be exclusively on volcanic regions of the country. Volcanoes were chosen because they present a clear future hazard to surrounding cities. More than 75% of Indonesians live within 100 km of the country's approx. 127 active volcanoes, the highest number in the world. 
