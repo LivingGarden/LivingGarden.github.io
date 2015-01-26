@@ -5,7 +5,7 @@ toc: true
 permalink: /problem/
 ---
 
-Whether drawn by their furtile volcanic soils, cultural attachments, or sheer beauty; communities around the world live near volcanoes and with the constant threat of their eruption.
+Whether drawn by their furtile volcanic soils, cultural attachments, or sheer beauty; communities around the world live near volcanoes and disaster management agencies stuggle to mitigate the risks they present.
 
 
 <figure>
@@ -13,7 +13,7 @@ Whether drawn by their furtile volcanic soils, cultural attachments, or sheer be
 	<figcaption>"Sakurajima at Sunset" by Kimon Berlin - originally posted to Flickr as Sakurajima at Sunset. Licensed under CC BY-SA 2.0 via Wikimedia Commons 
 </figure>
 
-In order to mitigate the risk posed to local communities disaster management agencies some basic data is essential. Where are buildings, roads and other basic infrastruction in relation to the volcano?  This kind of basic data is essential to knowing what specifically is in danger and working with it can help responce agencies formulate strategies to deal with the risks associated with living with volcanoes. 
+Knowing the locations and distribution of buildings, roads and other basic infrastruction is essential in aiding responces to Vulcanic eruptions and to informing strategies to mitigating the risk Volcanoes impose on local populations.    
 
 
 
