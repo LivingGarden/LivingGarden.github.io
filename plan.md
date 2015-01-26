@@ -6,7 +6,7 @@ permalink: /plan/
 ---
 
 <figure>
-	<img src="../images/overview/kediri_ov.png" align="middle">
+	<img src="../images/overview/kediri_ov.png">
 	<figcaption>An image of Mount Kelud and it's nearest city.</figcaption>
 </figure>
 
