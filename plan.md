@@ -5,7 +5,7 @@ toc: true
 permalink: /plan/
 ---
 
-![Kediri]("../images/overview/kediri_ov.png")
+![Kediri](../images/overview/kediri_ov.png )
 <!--
 <figure>
 	<img src="../images/overview/kediri_ov.png">
