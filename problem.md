@@ -10,7 +10,7 @@ Whether drawn by their furtile volcanic soils, cultural attachments, or sheer be
 
 <figure>
 	<img src="../images/overview/volcano_people.jpg">
-	<figcaption>"Sakurajima at Sunset" by Kimon Berlin - originally posted to Flickr as Sakurajima at Sunset. Licensed under CC BY-SA 2.0 via Wikimedia Commons - http://commons.wikimedia.org/wiki/File:Sakurajima_at_Sunset.jpg#mediaviewer/File:Sakurajima_at_Sunset.jpg</figcaption>
+	<figcaption>"Sakurajima at Sunset" by Kimon Berlin - originally posted to Flickr as Sakurajima at Sunset. Licensed under CC BY-SA 2.0 via Wikimedia Commons 
 </figure>
 
 In order to mitigate the risk posed to local communities disaster management agencies some basic data is essential. Where are buildings, roads and other basic infrastruction in relation to the volcano?  This kind of basic data is essential to knowing what specifically is in danger and working with it can help responce agencies formulate strategies to deal with the risks associated with living with volcanoes. 
