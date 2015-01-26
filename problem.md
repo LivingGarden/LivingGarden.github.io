@@ -10,7 +10,7 @@ Whether drawn by their furtile volcanic soils, cultural attachments, or sheer be
 
 <figure>
 	<img src="../images/overview/volcano_people.jpg">
-	<figcaption>"Sakurajima at Sunset" by Kimon Berlin - originally posted to Flickr as Sakurajima at Sunset. Licensed under CC BY-SA 2.0 via Wikimedia Commons 
+	<figcaption>"Sakurajima at Sunset" by Kimon Berlin - originally posted to Flickr as Sakurajima at Sunset. Licensed under CC BY-SA 2.0 via Wikimedia Commons.</figcaption>
 </figure>
 
 Knowing the locations and distribution of buildings, roads and other basic infrastruction is essential in aiding responces to Vulcanic eruptions and to informing strategies to mitigating the risk Volcanoes impose on local populations.    
