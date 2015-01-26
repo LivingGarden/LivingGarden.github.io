@@ -6,12 +6,6 @@ permalink: /plan/
 ---
 
 ![Kediri](../images/overview/kediri_ov.png )
-<!--
-<figure>
-	<img src="../images/overview/kediri_ov.png">
-	<figcaption>An image of Mount Kelud and it's nearest city.</figcaption>
-</figure>
--->
 
 For background on open data and the OpenStreetMap platform, see the [PROBLEM](http://wuhland.github.io/opendata/) section.
 
