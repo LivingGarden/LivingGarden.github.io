@@ -5,7 +5,7 @@ toc: true
 permalink: /problem/
 ---
 
-Whether drawn by their furtile volcanic soils, cultural attachments, or sheer beauty; communities around the world live near volcanoes and disaster management agencies stuggle to mitigate the risks they present.
+Whether drawn by their furtile volcanic soils, cultural attachments, or natural beauty; communities around the world live near volcanoes.
 
 
 <figure>
@@ -13,7 +13,9 @@ Whether drawn by their furtile volcanic soils, cultural attachments, or sheer be
 	<figcaption>"Sakurajima at Sunset" by Kimon Berlin - originally posted to Flickr as Sakurajima at Sunset. Licensed under CC BY-SA 2.0 via Wikimedia Commons.</figcaption>
 </figure>
 
-Knowing the locations and distribution of buildings, roads and other basic infrastruction is essential in aiding responces to Vulcanic eruptions and to informing strategies to mitigating the risk Volcanoes impose on local populations.    
+This presents a problem for disaster management agencies who stuggle to mitigate the risks volcanoes pose to local populations. In order to plan for the eventuality of a volcanic eruption some basic information is essential. Where are the buildings, roads and other infrastructure in relation to the hazard. 
+
+Basic information about the built environment helps transition a general idea that a volcano poses a danger to a specific characterization of the risks involved and a better context for formulated plans to respond to volcanic hazards.  
 
 
 
