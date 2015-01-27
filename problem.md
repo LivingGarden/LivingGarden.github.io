@@ -13,9 +13,20 @@ Whether drawn by their furtile volcanic soils, cultural attachments, or natural 
 	<figcaption>"Sakurajima at Sunset" by Kimon Berlin - originally posted to Flickr as Sakurajima at Sunset. Licensed under CC BY-SA 2.0 via Wikimedia Commons.</figcaption>
 </figure>
 
-This presents a problem for disaster management agencies who stuggle to mitigate the risks volcanoes pose to local populations. In order to plan for the eventuality of a volcanic eruption some basic information is essential. Where are the buildings, roads and other infrastructure in relation to the hazard. 
+This presents a problem for disaster management agencies who stuggle to mitigate the risks volcanoes pose to local populations. In order to plan for the eventuality of a volcanic eruption some basic information is essential; where are the buildings, roads and other infrastructure in relation to the hazard. 
 
-Basic information about the built environment helps transition a general idea that a volcano poses a danger to a specific characterization of the risks involved and a better context for formulated plans to respond to volcanic hazards.  
+
+Data about the built environment helps transition a general idea about the danger a volcano poses to specific characterizations of the risks involved and a better context for formulating response plans. When available this kind of data is useful in many different ways and at different stages of emergency management.
+
+When updated population estimates are not available the number of buildings can be used to estimate the number of people at risk from a particular volcanic hazard, something that is very useful to know before the onset of a disaster. At risk population estimates are often used as inputs to many emergency planning decisions; for instance in proportioning budgets or prepositioning aid supplies.
+
+Another pre disaster use case for basic infrastructure data is in highlighting specifically what is at risk. For years USAID has worked with USGS and local scientific agencies to develop and implement sophisticated software used for modelling some of the hazards related to active Volcanoes. These sofware have be
+
+
+
+
+
+
 
 
 
