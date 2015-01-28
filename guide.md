@@ -89,7 +89,7 @@ To trace buildings, place a node around every corner. Some buildings will be har
 </figure>
 
 <figure>
-	<img src="../images/guide/buildingGIF.gif">
+	<center><img src="../images/guide/buildingGIF.gif"></center>
 	<figcaption>An animation of the process.</figcaption>
 </figure>
 
