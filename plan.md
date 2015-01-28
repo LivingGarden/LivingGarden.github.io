@@ -21,6 +21,12 @@ Proximity to volcanoes coupled with Indonesia's sizable population density (237 
 
 -----
 
+##SUMMARY
+
+To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian programs, and the broader humanitarian community's capacity to plan and respond to eruptions at the target volcanoes, a data creation event centered around the OpenStreetMap platform may be an optimal way to both create data and engage the local Indonesian community. This event would promote the creation of data on the location and distribution of buildings, roads and agricultural fields. Volunteers would either map a 50 km radius around the volcano or major adjacent cities.
+
+-----
+
 ##PLAN OF ACTION
 
 The severe lack of available data around Volcanoes in Indonesia was highlighted by OFDA’s Volcano Disaster Assistance Program (VDAP) as a particular challenge to its ability to model the risks posed by volcanic hazards in these areas. VDAP is interested in creating data for these vulnerable areas and working with their counterparts in Indonesia to use these data to improve hazard assessments. They have highlighted 10 priority volcanoes.
