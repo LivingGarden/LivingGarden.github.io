@@ -39,7 +39,7 @@ The most famous use case for OSM being used for a humanitarian purpose is still 
 
 <iframe src="//player.vimeo.com/video/9182869" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
-<p><a href="http://vimeo.com/9182869">OpenStreetMap - Project Haiti</a> from <a href="http://vimeo.com/itoworld">ItoWorld</a>
+<p><a href="http://vimeo.com/9182869">OpenStreetMap - Project Haiti</a> from <a href="http://vimeo.com/itoworld">ItoWorld</a></p>
 
 As you can see in the video above the earthquakes devastation focused global attention on the situation and turned out a massive effort from volunteers who produced the best set of spatial data for the city to have ever existed in one place. The value of this data is evidenced by its wide use by international responce organizations. 
 
