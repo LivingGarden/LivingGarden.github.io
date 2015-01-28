@@ -7,23 +7,20 @@ permalink: /plan/
 
 #INDONESIAN VOLCANOES
 
+##SUMMARY
+
+To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian programs, and the broader humanitarian community's capacity to plan and respond to eruptions at the target volcanoes, a data creation event centered around the OpenStreetMap platform may be an optimal way to both create data and engage the local Indonesian community. This event would promote the creation of data on the location and distribution of buildings, roads and agricultural fields. Volunteers would either map a 50 km radius around the volcano or major adjacent cities.
+
 <figure>
 	<center><img src="../images/overview/kediri_ov.png"></center>
 	<figcaption>An image of Mount Kelud and it's nearest city.</figcaption>
 </figure>
-
 
 For background on open data and the OpenStreetMap platform, see the [PROBLEM](http://wuhland.github.io/opendata/) section.
 
 The first planned mapping project will be conducted in Indonesia. The focus of the mapping event will be exclusively on volcanic regions of the country. Volcanoes were chosen because they present a clear future hazard to surrounding cities. More than 75% of Indonesians live within 100 km of the country's approx. 127 active volcanoes, the highest number in the world. 
 
 Proximity to volcanoes coupled with Indonesia's sizable population density (237 million), makes any volcanic eruption has the potential for widespread damage. Between 1980 and 2008, approximately 300,000 Indonesians have been affected at a cost of $160 million USD.
-
------
-
-##SUMMARY
-
-To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian programs, and the broader humanitarian community's capacity to plan and respond to eruptions at the target volcanoes, a data creation event centered around the OpenStreetMap platform may be an optimal way to both create data and engage the local Indonesian community. This event would promote the creation of data on the location and distribution of buildings, roads and agricultural fields. Volunteers would either map a 50 km radius around the volcano or major adjacent cities.
 
 -----
 
