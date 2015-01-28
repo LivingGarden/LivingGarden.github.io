@@ -13,7 +13,7 @@ Whether drawn by their furtile volcanic soils, cultural attachments, or natural 
 	<figcaption>"Sakurajima at Sunset" by Kimon Berlin - originally posted to Flickr as Sakurajima at Sunset. Licensed under CC BY-SA 2.0 via Wikimedia Commons.</figcaption>
 </figure>
 
-This presents a problem for disaster management agencies who stuggle to mitigate the risks volcanoes pose to local populations. In order to plan for the eventuality of a volcanic eruption some basic information is essential; where are the buildings, roads and other infrastructure in relation to the hazard. 
+This presents a problem for disaster management agencies who struggle to mitigate the risks volcanoes pose to local populations. In order to plan for the eventuality of a volcanic eruption some basic information is essential; where are the buildings, roads and other infrastructure in relation to the hazard. 
 
 Data about the built environment helps transition a general idea about the danger a volcano poses to specific characterizations of the risks involved and a better context for formulating response plans. When available this kind of data is useful in many different ways and at different stages of emergency management.
 
@@ -23,11 +23,11 @@ Basic infrastructure data is also in highlighting specifically what is at risk. 
 
 Accurate information about the road network and communities around volcanoes are also used in planning evacuations and other activities that involve boots on the ground. 
 
-Despite the multiple use cases for infrastructure data in emergency management when a disaster is imminent or an eruption has occured and management agencies are called to respond they often find that the data available to them is outdated, innaxessable or non-existant.
+Despite the multiple use cases for infrastructure data in emergency management when a disaster is imminent or an eruption has occurred and management agencies are called to respond they often find that the data available to them is outdated, inaccessible or non-existent.
 
-The image below depicts a map used by the Indonesian National Agency for Disaster Management (BNPB) during a training exercise. The map highlights the town of Kabanjahe in its inset which depict lonely intersecting roads. This image belies what satelite imagery reveals; that Kabanjahe is a vibrant town filled with buildings, markets, schools and people. In fact, Kabanjahe is the seat of local government and the trade centre of Karo Regency but because the only data available was the road data that is what was used. 
+The image below depicts a map used by the Indonesian National Agency for Disaster Management (BNPB) during a training exercise. The map highlights the town of Kabanjahe in its inset which depict lonely intersecting roads. This image belies what satellite imagery reveals; that Kabanjahe is a vibrant town filled with buildings, markets, schools and people. In fact, Kabanjahe is the seat of local government and the trade center of Karo Regency but because the only data available was the road data that is what was used. 
 
-A quick look at google maps and it is quickly appearant that more spatial data about the world we live in exists than at any time in the past and in truth many basic types of features like roads are very well covered in the developed world. This is not the case in many less developed or rural areas where commertial data providers have less insentive to travel. 
+A quick look at google maps and it is quickly apparent that more spatial data about the world we live in exists than at any time in the past and in truth many basic types of features like roads are very well covered in the developed world. This is not the case in many less developed or rural areas where commercial data providers have less incentive to travel. 
 
 [OpenStreetMap](http://www.openstreetmap.org/node/540924177#map=15/3.0991/98.4919) has changed this dynamic in that it opens opportunity to develop this kind of data collaboratively. 
 
