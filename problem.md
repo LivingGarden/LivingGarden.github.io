@@ -57,23 +57,3 @@ These efforts have very often been associated with the kind of early onset disas
 	<img src="../images/overview/osm2ge2.png">
 	<figcaption>Bing Map Imagery and OpenStreetMap Image of Kediri and Jakarta, respectively. The dark tan polygons are descriptions of Jakarta’s buildings which were added to OSM.</figcaption>
 </figure>
-
-
-
-
-
-
-
-To assist USGS's Volcano Disaster Assistance Program, USAID/OFDA's Indonesian programs, and the broader humanitarian community's capacity to plan and respond to eruptions at the target volcanoes, a data creation event centered around the OpenStreetMap platform may be an optimal way to both create data and engage the local Indonesian community. This event would promote the creation of data on the location and distribution of buildings, roads and agricultural fields. Volunteers would either map a 50 km radius around the volcano or major adjacent cities.
-
-
-
-
-
- 
-
-
-
-
-
-
