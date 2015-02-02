@@ -21,11 +21,21 @@ When updated population estimates are not available the number of buildings can 
 
 Basic infrastructure data is also in highlighting specifically what is at risk. For years USAID has worked with USGS and local scientific agencies to develop and implement sophisticated software used in modelling volcano related hazards. Programs like LaharZ can model inundation zones of the mud and ash slurry (called Lahars) that flow down a volcano but this information only becomes really valuable when disaster managers know what is at risk within these zones.
 
+<figure>
+	<img src="../images/overview/msh.gif">
+	<figcaption>Animation of Mount Saint Helen eruption simulation by Steven N. Ward.</figcaption>
+</figure>
+
 Accurate information about the road network and communities around volcanoes are also used in planning evacuations and other activities that involve boots on the ground. 
 
 Despite the multiple use cases for infrastructure data in emergency management when a disaster is imminent or an eruption has occurred and management agencies are called to respond they often find that the data available to them is outdated, inaccessible or non-existent.
 
 The image below depicts a map used by the Indonesian National Agency for Disaster Management (BNPB) during a training exercise. The map highlights the town of Kabanjahe in its inset which depict lonely intersecting roads. This image belies what satellite imagery reveals; that Kabanjahe is a vibrant town filled with buildings, markets, schools and people. In fact, Kabanjahe is the seat of local government and the trade center of Karo Regency but because the only data available was the road data that is what was used. 
+
+<figure>
+	<img src="../images/overview/harlan.png">
+	<figcaption>Photo of Kapanjahe evacuation exorcise training by Harlan Hale</figcaption>
+</figure>
 
 A quick look at google maps and it is quickly apparent that more spatial data about the world we live in exists than at any time in the past and in truth many basic types of features like roads are very well covered in the developed world. This is not the case in many less developed or rural areas where commercial data providers have less incentive to travel. 
 
