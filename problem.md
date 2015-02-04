@@ -21,7 +21,7 @@ For an effective response to any disaster it is crucial to know how many people 
 Basic infrastructure data is also critical in identifying specifically what is at risk. For several years USAID has worked with the USGS and local scientific agencies to develop and implement sophisticated software used in modelling volcano related hazards. Programs like [LaharZ](http://pubs.er.usgs.gov/publication/ofr98638 "USGS Publication") can model inundation zones of the mud and ash slurry (called Lahars) that flow from a volcano but this information is only valuable when disaster managers know what is at risk within these zones.
 
 <figure>
-	<center><img src="../images/overview/msh.gif" align="middle"></center>
+	<center><img src="../images/overview/msh.gif"></center>
 	<figcaption>Animation of Mount Saint Helen eruption simulation by Steven N. Ward.</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Despite the multiple use cases for infrastructure data in emergency management w
 The image below depicts a map used by the Indonesian National Agency for Disaster Management (BNPB) during a training exercise. The map highlights the town of Kabanjahe in its inset which depict lonely intersecting roads. This image belies the fact that Kabanjahe is a vibrant town filled with buildings, markets, schools and people; a fact that is obvious in the satellite imagery underneath. In fact, Kabanjahe is the seat of local government and the trade center of Karo Regency!
 
 <figure>
-	<center><img src="../images/overview/harlan.png" align="middle"></center>
+	<center><img src="../images/overview/harlan.png"></center>
 	<figcaption>Photo of Kapanjahe evacuation exorcise training by Harlan Hale</figcaption>
 </figure>
 
