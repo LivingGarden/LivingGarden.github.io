@@ -118,7 +118,7 @@
 	padding: $gutter; // add white space for smaller screens
 	margin-right: auto;
 	margin-left: auto;
-	@include size(90% 100%);
+	@include size(1100px 100%);
 	@include position (relative);
 	-webkit-overflow-scrolling: touch;
 	z-index: 2;

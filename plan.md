@@ -5,7 +5,6 @@ toc: true
 permalink: /plan/
 ---
 
-#INDONESIAN VOLCANOES
 
 ##SUMMARY
 
