@@ -93,7 +93,7 @@
 		-->
 
 <div class="page-lead">
-	![]({{ site.url }}/images/header-bg.jpg)
+	![]({{ site.url  }}/images/header-bg.jpg)
       <div class="wrap page-lead-content">
         <h1>Living Garden Alliance</h1>
         <h2>Enhancing Shared Space</h2>
