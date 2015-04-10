@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title:			
-logo:			http://www.usaid.gov/sites/all/themes/usaid/logo.png # 120x120 px default image used for Twitter summary card
+title:		Living-Garden	
+logo:			 # 120x120 px default image used for Twitter summary card
 teaser: 		teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale: 
-url:
+url: Living-Garden
 
 # Jekyll configuration
 
@@ -20,8 +20,8 @@ gems:
 
 # Site owner
 owner:
-  name: 		OFDA GIU
-  email:		ofdagiu@ofda.gov
+  name: 		The Living Garden Alliance
+  email:		LivingGardenAlliance@gmail.com
   twitter:
   google:
     ad-client: 
