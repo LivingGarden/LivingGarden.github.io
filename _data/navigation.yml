@@ -5,17 +5,7 @@
   excerpt: 
   image:
 
-- title: Problem
-  url: /problem/
-  excerpt: A summary of the problems associated with missing data.
-  image:
-
-- title: Plan
-  url: /plan/
-  excerpt: A summary of the missing data surrounding Indonesian volcanoes.
-  image:
-
-- title: Guide
-  url: /guide/
-  excerpt: An OpenStreetMap training guide to mapping around Indonesian volcanoes.
+- title: News 
+  url: /News/
+  excerpt: Updates and events
   image:

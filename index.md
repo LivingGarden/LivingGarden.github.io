@@ -92,8 +92,7 @@
 				<div class="page-lead" style="background-image:url(images/index/main_dark.jpeg)">
 		-->
 
-<div class="page-lead">
-	![]({{ site.url  }}/images/header-bg.jpg)
+<div class="page-lead" style="background-image:url(https://cloud.githubusercontent.com/assets/9647018/7149725/306ee474-e2df-11e4-8ae7-a2ed86259d23.jpg)">
       <div class="wrap page-lead-content">
         <h1>Living Garden Alliance</h1>
         <h2>Enhancing Shared Space</h2>
@@ -106,12 +105,10 @@
 
 <div id="page-wrapper">
      <!--[if lt IE 9]><div class="upgrade notice-danger"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
-	<p>The Living Garden Alliance aims to community bonds in the District through the creative use of shared space.</p>
+	<p>The Living Garden Alliance aims to enliven community through the creative use of shared space.</p>
 
 <hr />
-<!--<div class="tiles">
 
-</div>-->
 
 				<footer class="page-footer">
 					<div class="inline-btn">
